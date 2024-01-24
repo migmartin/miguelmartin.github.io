@@ -5,7 +5,7 @@ theme = "hugo-initio"
 
 [params]
     name = "Dr. Miguel Martin"
-    description = ""
+    description = "Postdoctoral Research Fellow"
     email = "M.Martin@tudelft.nl"
     phone = "+1-412-475-1521"
     address = "119 Forbes Ave, 5000 Porter Hall, PA 15213"
@@ -19,23 +19,30 @@ theme = "hugo-initio"
     author = "Sergey Pozhilov (GetTemplate.com)"
 
     showSubheader = true
-    showServices = true
-    showRecentWorks = true
-    showDownloads = true
-    showClients = true
+    showAbout = true
+	showBackground = true	
+    showProjects = true
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
 
 [[menu.main]]
     name = "home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "blog"
-    url = "/post/"
+    name = "Research"
+    url = "/research/"
+    weight = 3
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 4
+[[menu.main]]
+    name = "Awards"
+    url = "/awards/"
     weight = 5
 
 [params.disqus]
@@ -48,55 +55,35 @@ theme = "hugo-initio"
 [params.google.analytics]
     trackerID = "GA-000000000-0"
 
-[[params.social]]
-	title = "facebook"
-	url = "https://www.facebook.com/nickname"
-    icon = "fab fa-facebook-square"
-    footer = true
-    sharethis = true
-    network = "facebook"
-[[params.social]]
-	title = "twitter"
-	url = "https://twitter.com/nickname"
-    icon = "fab fa-twitter-square"
-    footer = true
-    sharethis = true
-    network = "twitter"
-[[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/nickname"
-    icon = "fab fa-instagram"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "google+"
-	url = "https://plus.google.com/+nickname"
-    icon = "fab fa-google-plus-square"
-    footer = false
-    sharethis = true
-    network = "googleplus"
+
 [[params.social]]
 	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
+	url = "https://www.linkedin.com/in/miguel-martin-30b621208"
     icon = "fab fa-linkedin"
-    footer = false
+    footer = true
     sharethis = true
     network = "linkedin"
 [[params.social]]
-	title = "tumblr"
-	url = "https://nickname.tumblr.com"
-    icon = "fab fa-tumblr-square"
-    footer = false
-    sharethis = false
-    network = "tumblr"
-[[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/migmartin"
     icon = "fab fa-github"
     footer = true
     sharethis = false
     network = ""
+[[params.social]]
+	title = "google scholar"
+	url = "https://scholar.google.com/citations?hl=en&user=60sstlEAAAAJ"
+    icon = "fab fa-google"
+    footer = true
+    sharethis = false
+    network = "google"
+[[params.social]]
+	title = "YouTube"
+	url = "https://www.youtube.com/channel/UCNomvpB-Vr5yE--wM0e4xvA"
+    icon = "fab fa-youtube"
+    footer = true
+    sharethis = false
+    network = "google"
 [[params.social]]
 	title = "email"
 	url = "mailto:some.email@somewhere.com"
