@@ -1,0 +1,25 @@
+<article>
+  <header>
+    <h3>{{ .Title }}</h3>
+    <p class="meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+  </header>
+  <section>
+    <p>{{ .Params.abstract }}</p>
+    {{ if .Params.externalLink }}
+      <p><a href="{{ .Params.externalLink }}" target="_blank">Read more</a></p>
+    {{ end }}
+  </section>
+  <footer>
+    <p>Authors: 
+      {{ range $index, $author := .Params.authors }}
+        {{ if gt $index 0 }}, {{ end }}
+        {{ if eq $author "Martin Miguel" }}
+          <strong>{{ $author }}</strong>
+        {{ else }}
+          {{ $author }}
+        {{ end }}
+      {{ end }}
+    </p>
+    <p>Published in: {{ .Params.proceedings }}</p>
+  </footer>
+</article>

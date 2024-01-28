@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <main id="main">
+    <div class="container">
+      <div class="row section featured topspace">
+        <h2 class="section-title">
+          <span>Journal publications</span>
+        </h2>
+        {{ with .Data.Pages.ByDate.Reverse }}
+          {{ range . }}
+            {{ $type := .Params.type }}
+            {{ if eq $type "journal-article" }}
+                <!-- Display Journal Articles -->
+                {{ partial "publications/journal-article.html" . }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        <h2 class="section-title">
+          <span>Conference proceedings</span>
+        </h2>
+        {{ with .Data.Pages.ByDate.Reverse }}
+          {{ range . }}
+          {{ $type := .Params.type }}
+            {{ if eq $type "conference-proceedings" }}
+              {{ partial "publications/conference-proceeding.html" . }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </main>
+{{ end }}

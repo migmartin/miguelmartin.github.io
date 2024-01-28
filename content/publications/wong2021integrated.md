@@ -1,0 +1,9 @@
++++
+title = "An integrated multiscale urban microclimate model for the urban thermal environment"
+date = 2021-01-01
+type = "journal-article"
+authors = ["Wong Nyuk Hien", "He Yueer", "Nguyen Ngoc Son", "Raghavan Srivatsan V.", "Martin Miguel", "Hii Daniel Jun Chung", "Yu Zhongqi", "Deng Jiyu"]
+journal = "Energy and Buildings"
+abstract = "An urban microclimate model integrated with the mesoscale, local scale, microscale and building scale models is presented for the urban thermal environment and urban heat island (UHI) mitigation study. This integrated multi-scale and multi-physics urban microclimate model takes the impacts on the urban microclimate of multiple physical processes of regional climate, urban climate, building and pavement material properties, and anthropogenic heat into account. This objective is achieved by coupling weather and energy models, the weather research forecasting (WRF), OpenFOAM and EnergyPlus. This study presents a method of distributing initial and boundary conditions from mesoscale into microscale through the integration of building thermal behaviour and microclimate. We further examine the integrated model by taking the Kent Ridge campus of National University of Singapore (NUS) as a test case. The preliminary application focuses on the assessment of weather conditions at the local scale and the feasibility of using mesoscale WRF outputs as inputs for the CFD model."
+externalLink = "https://www.sciencedirect.com/science/article/pii/S2212095520301929?casa_token=wF1XB_TKRj8AAAAA:B24skBnd9jqZ_ArDNxEtZQZbDCp8N7OlUd7VHhUJQGiH3BtLtBsjQw84b4AmXO-bRMxW5oVc67M"
++++

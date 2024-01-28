@@ -1,0 +1,9 @@
++++
+title = "Longitudinal thermal imaging for scalable non-residential HVAC and occupant behaviour characterization"
+date = 2023-05-15
+type = "journal-article"
+authors = ["Ramani Vasantha", "Martin Miguel", "Arjunan Pandarasamy", "Chong Adrian", "Poolla  Kameshwar", "Miller Clayton"]
+journal = "Energy and Buildings"
+abstract = "This work presents a study on the characterization of the air-conditioning (AC) usage pattern of non-residential buildings from longitudinal thermal images collected at the urban scale. The operational pattern of two different air-conditioning systems (water-cooled systems operating on a pre-set schedule and window AC units operated by the occupants) are studied from the thermal images. It is observed that for the water-cooled system, the difference between the rate of change of the window and wall temperature can be used to extract the operational pattern. While, in the case of the window AC units, wavelet transform of the AC unit temperature is used to extract the frequency and time domain information of the AC unit operation. The results of the analysis are compared against the indoor temperature sensors installed in the office spaces of the building. This forms one of the first few studies on the operational behavior of HVAC systems for non-residential buildings using the longitudinal thermal imaging technique. The output from this study can be used to better understand the operational and occupant behavior, without requiring to deploy a large array of sensors in the building space."
+externalLink = "https://www.sciencedirect.com/science/article/pii/S037877882300227X?casa_token=jlJ4f9QZMKsAAAAA:qWh0eQyder8J-t1BhpmRsHUvdUfK45nxxO_XScbL5GjcmesjsznbrLJrxye-KzKTSDevPRfxPz8"
++++

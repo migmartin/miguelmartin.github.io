@@ -3,6 +3,7 @@ languageCode = "en"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
 
+
 [params]
     name = "Dr. Miguel Martin"
     description = "Postdoctoral Research Fellow"
@@ -20,8 +21,8 @@ theme = "hugo-initio"
 
     showSubheader = true
     showAbout = true
-	showBackground = true	
-    showProjects = true
+    showBackground = true	
+    showProjects = false
 
     showFooterContact = true
     showFooterFollowMe = true
@@ -32,18 +33,12 @@ theme = "hugo-initio"
     name = "home"
     url = "/"
     weight = 1
+
 [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 3
-[[menu.main]]
-    name = "Teaching"
-    url = "/teaching/"
-    weight = 4
-[[menu.main]]
-    name = "Awards"
-    url = "/awards/"
-    weight = 5
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

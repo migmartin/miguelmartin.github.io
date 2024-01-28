@@ -1,0 +1,9 @@
++++
+title = "Impact of retro-reflective glass façades on the surface temperature of street pavements in business areas of Singapore and Tokyo"
+date = 2019-07-01
+type = "conference-proceedings"
+authors = ["Martin Miguel", "Wong Nyuk Hien", "Ichinose Masayuki"]
+proceedings = "IOP Conference Series: Earth and Environmental Science"
+abstract = "This study evaluates variations in the surface temperature of street pavements caused by retro-reflective glass when applied on highly-glazed facades of high-rise buildings located in Singapore and Tokyo. To accomplish this, simulations are conducted on one experimental site situated in business areas of Singapore and another in the city centre of Tokyo. Incoming solar radiations on street pavements and heat transfers affecting their surface temperature are among the physical phenomena being simulated. As a result of the data analysis, it appears that the use of accordion retro-reflective glass on highly-glazed façades could noticeably reduce the surface temperature of street pavements in business areas of both Singapore and Tokyo, compared with other types of glass. A more significant decrease in the surface temperature can be expected in the experimental site of Tokyo, particularly near the summer solstice. On the other hand, the design optimisation of accordion retro-reflective glass seems to be more effortlessly achieved in Singapore. These outcomes represent an encouraging step towards the reduction of building energy use, as well as the mitigation of the Urban Heat Island effect, from the use of retroreflective glass façades in business areas of different cities experiencing various climates."
+externalLink = "https://iopscience.iop.org/article/10.1088/1755-1315/294/1/012020/meta"
++++
