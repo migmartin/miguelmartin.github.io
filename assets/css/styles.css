@@ -117,6 +117,7 @@ body {
   font-size: 1.5rem;
   font-weight: 300;
   margin-top: -0.37em;
+  margin-bottom: 20px;
 }
 .nav-side > li > a {
   padding-top: 5px;
@@ -839,4 +840,30 @@ footer.entry-meta .meta-in {
    &:hover, &:focus {
       color: #004488;
    }
+}
+
+/*********************************************************************
+
+
+                                AWARDS
+
+
+**********************************************************************/
+
+.award-container {
+  display: flex;
+  align-items: center;
+}
+
+.image-container {
+  margin-right: 20px; /* Adjust margin as needed */
+}
+
+.image-container img {
+  max-width: 300px; /* Set the maximum width */
+  max-height: 200px; /* Set the maximum height */
+}
+
+.awards-list {
+  flex-grow: 1;
 }

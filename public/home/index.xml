@@ -8,11 +8,25 @@
     <language>en</language>
     <atom:link href="http://miguelmartin.org/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://miguelmartin.org/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/home/about/</guid>
+      <description>I have more than 10 years of experience in the field of urban climate and building energy efficiency. I have essentially studied interactions between buildings and their outdoor environment using both experimental and modelling approaches. I have conducted various field experiments in the outdoor built environment using automatic weather stations, meteorological flux towers, and infrared thermal cameras. Data I have collected through fields experiments have been used to either validate physically-based models or train data-driven models.</description>
+    </item>
+    <item>
+      <title>Background</title>
+      <link>http://miguelmartin.org/home/background/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/home/background/</guid>
+      <description>I received my Bachelor and Master degree in Computer Science at the University of Geneve (Switzerland). At the end of my Master, I wrote a thesis about humain-machine interactions using brain waves.&#xA;As a first professional experience in research, I worked at the Energy Center of the Swiss Federal Institute of Technology Lausanne. I was hired in a project to study energy flows in Switzerland. The project enabled me to realize the importance of buildings in the total consumption of energy within a country.</description>
+    </item>
+    <item>
       <title></title>
       <link>http://miguelmartin.org/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/home/subheader/</guid>
-      <description>Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you measure yourself by the people who measure themselves by you. it only took me six days.</description>
+      <description>I am a postdoctoral researcher sponsored by the Marie-Curie Global fellowship to contribute to the mission Climate Neutral and Smart Cities in collaboration with the Delft University of Technology and Carnegie Mellon University.</description>
     </item>
   </channel>
 </rss>

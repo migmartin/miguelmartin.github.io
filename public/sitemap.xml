@@ -2,43 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://miguelmartin.org/home/downloads/download1/</loc>
+    <loc>http://miguelmartin.org/home/about/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/home/services/</loc>
+    <loc>http://miguelmartin.org/publications/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/home/recentworks/</loc>
+    <loc>http://miguelmartin.org/home/background/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/home/downloads/</loc>
+    <loc>http://miguelmartin.org/home/projects/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/home/clients/</loc>
+    <loc>http://miguelmartin.org/teaching/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/about/</loc>
+    <loc>http://miguelmartin.org/awards/</loc>
   </url><url>
     <loc>http://miguelmartin.org/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/post/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <loc>http://miguelmartin.org/publications/ramani2023longitudinal/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/post/vivamus-lacus-mauris/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <loc>http://miguelmartin.org/publications/martin2022infrared/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://miguelmartin.org/publications/miguel2021physically/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://miguelmartin.org/publications/wong2021integrated/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://miguelmartin.org/publications/martin2019impact/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://miguelmartin.org/publications/martin2017comparison/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://miguelmartin.org/publications/lim2017multi/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://miguelmartin.org/publications/martin2016new/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://miguelmartin.org/publications/martin2015estimation/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://miguelmartin.org/home/subheader/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/home/services/service3/</loc>
-  </url><url>
     <loc>http://miguelmartin.org/categories/</loc>
-  </url><url>
-    <loc>http://miguelmartin.org/home/services/service1/</loc>
-  </url><url>
-    <loc>http://miguelmartin.org/home/downloads/download2/</loc>
   </url><url>
     <loc>http://miguelmartin.org/home/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/home/services/service4/</loc>
+    <loc>http://miguelmartin.org/home/projects/project1/</loc>
   </url><url>
     <loc>http://miguelmartin.org/tags/</loc>
-  </url><url>
-    <loc>http://miguelmartin.org/home/services/service2/</loc>
   </url>
 </urlset>
