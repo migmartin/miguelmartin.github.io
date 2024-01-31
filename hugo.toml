@@ -40,6 +40,12 @@ theme = "hugo-initio"
     url = "/publications/"
     weight = 2
 
+[[menu.main]]
+    identifier = "teaching"
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
+
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
 

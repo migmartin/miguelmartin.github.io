@@ -1,15 +1,15 @@
 <article>
   <header>
     <h3>{{ .Title }}</h3>
-    <p class="meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+    <p class="lead">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
   </header>
-  <section>
-    <p>{{ .Params.abstract }}</p>
+  <section >
+    <p class="lead">{{ .Params.abstract }}</p>
     {{ if .Params.externalLink }}
-      <p><a href="{{ .Params.externalLink }}" target="_blank">Read more</a></p>
+      <p style="font-size:18px;"><a href="{{ .Params.externalLink }}" target="_blank">Read more</a></p>
     {{ end }}
   </section>
-  <footer>
+  <footer class="lead">
     <p>Authors: 
       {{ range $index, $author := .Params.authors }}
         {{ if gt $index 0 }}, {{ end }}
