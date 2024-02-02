@@ -6,7 +6,7 @@
     <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://miguelmartin.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -27,7 +27,14 @@
       <link>http://miguelmartin.org/awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/awards/</guid>
-      <description> - Award 1&#xD;- Award 2&#xD;- Award 3&#xD;</description>
+      <description> Marie-Curie Postdoctoral Global Fellowship, European Commission, 2022 Best paper award, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 Best oral presentation, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 President’s Graduate Fellowship, National University of Singapore, Singapore, 2019 NUS Research Scholarship, National University of Singapore, Singapore, 2016 </description>
+    </item>
+    <item>
+      <title>InfraRed Investigation in Singapore (IRIS) Observatory: Urban heat island contributors and mitigators analysis using neighborhood-scale thermal imaging</title>
+      <link>http://miguelmartin.org/publications/martin2024infrared/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/publications/martin2024infrared/</guid>
+      <description></description>
     </item>
     <item>
       <title>Longitudinal thermal imaging for scalable non-residential HVAC and occupant behaviour characterization</title>
@@ -100,11 +107,25 @@
       <description>I am a postdoctoral researcher sponsored by the Marie-Curie Global fellowship to contribute to the mission Climate Neutral and Smart Cities in collaboration with the Delft University of Technology and Carnegie Mellon University.</description>
     </item>
     <item>
+      <title></title>
+      <link>http://miguelmartin.org/teaching/teaching_philosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/teaching/teaching_philosophy/</guid>
+      <description>Teachning is not only a way for me to tranfer the knowledge I acquired in the fields of computer and building sciences, but also an opprtunity to learn from others. For that reason, I highly encourage students to actively participate in class rather than passively listening to the instructor. Through active learning, I am able to evaluate student&amp;rsquo;s entry level at the early stage of the course, provide adequate feedback and guidance at each important stage of their learning curve, and ensure they will achieve their learning objectives at the end of their curriculum.</description>
+    </item>
+    <item>
       <title>SCIENCES</title>
       <link>http://miguelmartin.org/home/projects/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/home/projects/project1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching experience</title>
+      <link>http://miguelmartin.org/teaching/teaching_experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/teaching/teaching_experience/</guid>
+      <description> Marie-Curie Postdoctoral Global Fellowship, European Commission, 2022 Best paper award, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 Best oral presentation, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 President’s Graduate Fellowship, National University of Singapore, Singapore, 2019 NUS Research Scholarship, National University of Singapore, Singapore, 2016 </description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,14 @@
+<article>
+  <header>
+    <h3>{{ .Title }}</h3>
+    <p class="lead">{{ .Params.semester }}</p>
+  </header>
+  <section>
+    <p class="lead">{{ .Content }}</p>
+  </section>
+  <footer class="lead">
+    <p>Responsability: {{ .Params.responsability }} </p>
+    <p>Instructor(s): {{ .Params.instructors }}</p>
+    <p>Institution: {{ .Params.institution }}</p>
+  </footer>
+</article>

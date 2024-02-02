@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching on Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <title>Teachings on Initio - Free, multipurpose html5 template by GetTemplate</title>
     <link>http://miguelmartin.org/teaching/</link>
-    <description>Recent content in Teaching on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <description>Recent content in Teachings on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://miguelmartin.org/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://miguelmartin.org/teaching/teaching_philosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/teaching/teaching_philosophy/</guid>
+      <description>Teachning is not only a way for me to tranfer the knowledge I acquired in the fields of computer and building sciences, but also an opprtunity to learn from others. For that reason, I highly encourage students to actively participate in class rather than passively listening to the instructor. Through active learning, I am able to evaluate student&amp;rsquo;s entry level at the early stage of the course, provide adequate feedback and guidance at each important stage of their learning curve, and ensure they will achieve their learning objectives at the end of their curriculum.</description>
+    </item>
+    <item>
+      <title>Teaching experience</title>
+      <link>http://miguelmartin.org/teaching/teaching_experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/teaching/teaching_experience/</guid>
+      <description> Marie-Curie Postdoctoral Global Fellowship, European Commission, 2022 Best paper award, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 Best oral presentation, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 President’s Graduate Fellowship, National University of Singapore, Singapore, 2019 NUS Research Scholarship, National University of Singapore, Singapore, 2016 </description>
+    </item>
   </channel>
 </rss>
