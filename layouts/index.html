@@ -2,23 +2,15 @@
   <main id="main">
 
     <div class="container">
-  
-      {{ if .Site.Params.showSubheader }}
+
         {{ partial "home/subheader.html" . }}
-      {{ end }}
-	  
-	  {{ if .Site.Params.showAbout }}
         {{ partial "home/about.html" . }}
-      {{ end }}
-	  
-	  {{ if .Site.Params.showBackground }}
         {{ partial "home/background.html" . }}
-      {{ end }}
       
         {{ range .Site.Sections }}
             {{ range .Sections.ByWeight }}
                 {{ $stype := .Type}}
-                {{ if (or (and (eq $stype "project") (.Site.Params.showProjects))) }}
+                {{ if eq $stype "project" }}
 
                      <div class="row section featured topspace">
                        <h2 class="section-title">
@@ -27,7 +19,6 @@
 					   
                      {{ if eq $stype "project" }}
                        {{ partial "home/projects.html" . }}
-
                      {{ end }}
                 </div>	<!-- /section -->
               {{ end }}
