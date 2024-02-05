@@ -1,9 +1,9 @@
 +++
 title = "InfraRed Investigation in Singapore (IRIS) Observatory: Urban heat island contributors and mitigators analysis using neighborhood-scale thermal imaging"
-date = 2024-02-01
+date = 2024-02-05
 type = "journal-article"
 authors = ["Martin Miguel", "Ramani Vasantha", "Miller Clayton"]
 journal = "Energy and Buildings"
 abstract = "This paper studies heat fluxes from contributors and mitigators of urban heat islands using thermal images and weather data. Thermal images were collected by a rooftop observatory between November 2021 and April 2022. Over the same period, weather stations were operating at several locations on a university campus in Singapore. From collected data, a method was defined to estimate sensible and latent heat fluxes from  building facades, vegetation, and traffic. Before analyzing heat fluxes using the method, thermal images were calibrated against measurements made with contact surface sensors. Results show that the method can be used to study heat fluxes with a higher temporal resolution at the neighbourhood scale than any other technique using thermal images collected by a satellite. Heat fluxes can also be analyzed over a longer period while considering urban morphology with a higher fidelity than these estimated using most urban climate models. However, as heat fluxes are directly calculated from measurements, the method is not able to forecast the impact of certain elements in the built environment on urban heat islands. In the future, this limitation can be overcome if heat fluxes assessed by the method are used to train and test data driven models."
-externalLink = ""
+externalLink = "https://www.sciencedirect.com/science/article/pii/S0378778824000896"
 +++
