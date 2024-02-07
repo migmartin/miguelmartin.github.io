@@ -1,6 +1,6 @@
 +++
 title = "InfraRed Investigation in Singapore (IRIS) Observatory: Urban heat island contributors and mitigators analysis using neighborhood-scale thermal imaging"
-date = 2024-02-05
+date = 2024-03-15
 type = "journal-article"
 authors = ["Martin Miguel", "Ramani Vasantha", "Miller Clayton"]
 journal = "Energy and Buildings"
