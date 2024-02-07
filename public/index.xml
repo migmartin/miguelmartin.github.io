@@ -6,7 +6,7 @@
     <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://miguelmartin.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -28,13 +28,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/awards/</guid>
       <description> Marie-Curie Postdoctoral Global Fellowship, European Commission, 2022 Best paper award, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 Best oral presentation, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 President’s Graduate Fellowship, National University of Singapore, Singapore, 2019 NUS Research Scholarship, National University of Singapore, Singapore, 2016 </description>
-    </item>
-    <item>
-      <title>InfraRed Investigation in Singapore (IRIS) Observatory: Urban heat island contributors and mitigators analysis using neighborhood-scale thermal imaging</title>
-      <link>http://miguelmartin.org/publications/martin2024infrared/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2024infrared/</guid>
-      <description></description>
     </item>
     <item>
       <title>Longitudinal thermal imaging for scalable non-residential HVAC and occupant behaviour characterization</title>
@@ -114,18 +107,25 @@
       <description>Teachning is not only a way for me to tranfer the knowledge I acquired in the fields of computer and building sciences, but also an opprtunity to learn from others. For that reason, I highly encourage students to actively participate in class rather than passively listening to the instructor. Through active learning, I am able to evaluate student&amp;rsquo;s entry level at the early stage of the course, provide adequate feedback and guidance at each important stage of their learning curve, and ensure they will achieve their learning objectives at the end of their curriculum.</description>
     </item>
     <item>
-      <title>SCIENCES</title>
-      <link>http://miguelmartin.org/home/projects/project1/</link>
+      <title>Autonomous Sustainable Buildings: From Theory to Practice (12-770)</title>
+      <link>http://miguelmartin.org/teaching/ceecmu12770/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/home/projects/project1/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <guid>http://miguelmartin.org/teaching/ceecmu12770/</guid>
+      <description>In this course, I teach fundamental notions in Building Physics and their applications using EnergyPlus. I also provide guidance to students in their assignments and final group projects. I contributed to the course material for the following lectures:&#xA;Lecture 5: Energy Use in Buildings (Slides) Lecture 6: Thermodynamics Part 1 (Slides) Lecture 7: Thermodynamics Part 2 (Slides) Lecture 8: Thermal comfort (Slides) Lecture 9: Building Energy Simulations Part 1 (Slides, ZIP, Videos) Lecture 10: Building Energy Simulations Part 2 (Slides, ZIP, Videos) </description>
+    </item>
+    <item>
+      <title>SCIENCES</title>
+      <link>http://miguelmartin.org/home/projects/sciences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/home/projects/sciences/</guid>
+      <description>&lt;p&gt;The Smart City Innovations and Experiments using New Climate and Energy Simulations (SCIENCES) project is funded by the European commission and managed by the Delft University of Technology in association with Carnegie Mellon University.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching experience</title>
       <link>http://miguelmartin.org/teaching/teaching_experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/teaching/teaching_experience/</guid>
-      <description> Marie-Curie Postdoctoral Global Fellowship, European Commission, 2022 Best paper award, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 Best oral presentation, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 President’s Graduate Fellowship, National University of Singapore, Singapore, 2019 NUS Research Scholarship, National University of Singapore, Singapore, 2016 </description>
+      <description> Teaching assistant, Digital construction (PF1103), Department of Building Science, School of Design and Environment, National University of Singapore, Spring 2019&#xA;(Instructor: Miller Clayton) Teaching assistant, Project in software engineering (CS 13X008), Department of Computer Science, Faculty of Sciences, University of Geneva, Spring 2010&#xA;(Instructor: Marchand-Maillet Stephane) Teaching assistant, Software engineering (CS 13X003), Department of Computer Science, Faculty of Sciences, University of Geneva, Fall 2009 (Instructor: Marchand-Maillet Stephane) </description>
     </item>
   </channel>
 </rss>

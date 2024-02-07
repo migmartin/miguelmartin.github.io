@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <title>Current projects on Initio - Free, multipurpose html5 template by GetTemplate</title>
     <link>http://miguelmartin.org/home/projects/</link>
-    <description>Recent content in Projects on Initio - Free, multipurpose html5 template by GetTemplate</description>
+    <description>Recent content in Current projects on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://miguelmartin.org/home/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SCIENCES</title>
-      <link>http://miguelmartin.org/home/projects/project1/</link>
+      <link>http://miguelmartin.org/home/projects/sciences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/home/projects/project1/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <guid>http://miguelmartin.org/home/projects/sciences/</guid>
+      <description>&lt;p&gt;The Smart City Innovations and Experiments using New Climate and Energy Simulations (SCIENCES) project is funded by the European commission and managed by the Delft University of Technology in association with Carnegie Mellon University.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
