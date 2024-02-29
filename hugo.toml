@@ -1,6 +1,6 @@
 baseURL = "http://miguelmartin.org"
 languageCode = "en"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Miguel Martin"
 theme = "hugo-initio"
 
 
@@ -45,6 +45,12 @@ theme = "hugo-initio"
     name = "Teaching"
     url = "/teaching/"
     weight = 3
+
+[[menu.main]]
+  identifier = "cv"
+  name = "CV"
+  url = "/cv/cv_miguel_martin.pdf"
+  weight = 5
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
