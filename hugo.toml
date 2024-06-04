@@ -52,6 +52,12 @@ theme = "hugo-initio"
   url = "/cv/cv_miguel_martin.pdf"
   weight = 5
 
+[[menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "/news/"
+    weight = 6
+
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
 

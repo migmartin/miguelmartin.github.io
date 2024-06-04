@@ -3,9 +3,9 @@
 
     <div class="container">
         {{ partial "teaching/teaching_philosphy.html" . }}
-        <h2 class="section-title">
+        <!-- <h2 class="section-title">
           <span>Currently teaching</span>
-        </h2>
+        </h2> -->
         {{ with .Data.Pages.ByDate.Reverse }}
           {{ range . }}
             {{ $type := .Params.type }}

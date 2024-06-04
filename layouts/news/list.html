@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <main id="main">
+    <div class="container">
+      <div class="row section featured topspace">
+        {{ with .Data.Pages.ByWeight }}
+          {{ range . }}
+            {{ $type := .Params.type }}
+            {{ if eq $type "news" }}
+                <!-- Display Journal Articles -->
+                {{ partial "news/news.html" . }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </main>
+{{ end }}
