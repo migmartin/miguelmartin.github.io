@@ -1,6 +1,6 @@
 +++
-weight = 3
-type = "news"
+date = 2024-06-17
+type = "past-news"
 link_url = "https://community.climatechange.ai/c/ccai-event-signup/ccai-discussion-seminar-series-1-fb65ed"
 image_path = "/news/CCAI.jpg"
 +++
@@ -11,4 +11,4 @@ On **June 17 2024 between 10:30am and 12pm EST**, I gave a talk on applications 
 - Machine learning to calibrate an urban building energy model
 - Machine learning to assess climate risk
 
-The content of the presentation can be found [here](/news/CCAI_discussion_seminar_series.pdf). A follow-up discussion forum is availble [here](https://community.climatechange.ai/c/webinars/seeking-your-feedback-on-ccai-discussion-seminar-1-machine-learning-applied-to-urban-building-energy-modelling-and-climate-risk-assessment-by-dr-miguel-martin)
+The content of the presentation can be found [here](/news/CCAI_discussion_seminar_series.pdf). A follow-up discussion forum is availble [here](https://community.climatechange.ai/c/webinars/seeking-your-feedback-on-ccai-discussion-seminar-1-machine-learning-applied-to-urban-building-energy-modelling-and-climate-risk-assessment-by-dr-miguel-martin). A recorded video of the presentation is available on Youtube [here](https://www.youtube.com/watch?v=eHShZhH3Ae4&t=34s).
