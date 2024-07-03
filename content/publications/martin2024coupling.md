@@ -1,0 +1,9 @@
++++
+title = "Coupling between detailed building energy models and a data driven urban canopy model"
+date = 2024-06-25
+type = "conference-proceedings"
+authors = ["Martin Miguel", "Berges Mario", "Stoter Jantien", "Garcia-Sanchez Clara"]
+proceedings = "PLEA 2024 Proceedings"
+abstract = "This paper describes a data driven urban canopy model that can be coupled with detailed building energy models. The data driven model is used to assess the outdoor air temperature and humidity in a street canyon considering as inputs weather conditions at the atmospheric layer, the surface temperature of surrounding building facades and the street, and the heat released from the use of air-conditioning. Predictions made by the model were tested using measurements of the outdoor air temperature and humidity collected between April and August 2019 in Singapore. Results show that the model estimates the outdoor air temperature with a similar accuracy than others that were validated using the same input and test data, while providing estimates with a higher temporal resolution and considering urban morphology with a higher fidelity. They also demonstrate that the model can predict the impact of waste heat releases and cool pavement on the outdoor air temperature and building energy consumption. In the future, vegetation could be considered as an input of the model if the land surface temperature is measured using an infrared thermal camera. Another improvement would be to define weather conditions at the atmospheric layer from rooftop measurements or a climate model."
+externalLink = "https://www.researchgate.net/publication/381953641_Coupling_between_detailed_building_energy_models_and_a_data_driven_urban_canopy_model"
++++
