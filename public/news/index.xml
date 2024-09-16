@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Miguel Martin</title>
+    <link>http://localhost:1313/news/</link>
+    <description>Recent content in News on Miguel Martin</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/smartlivinglab2024/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/smartlivinglab2024/</guid>
+      <description>&lt;p&gt;On &lt;strong&gt;September 13 2024&lt;/strong&gt;, I presented my research sponsored by the Marie Curie Postdoctoral fellowship at the Smart Living Lab in Fribourg (Switzerland). The content of the presentation is available &lt;a href=&#34;http://localhost:1313/news/Presentation_Miguel_Martin_EPFL_Smart_Living_Lab.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/gni2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/gni2024/</guid>
+      <description>&lt;p&gt;On &lt;strong&gt;September 11 2024&lt;/strong&gt;, I presented my research on the use of machine learning to simulate interactions between buildings and their outdoor conditions during the GNI Symposium &amp;amp; Expo on Artificial Intelligence for the Built World in Munich. The content of the presentation is available &lt;a href=&#34;http://localhost:1313/news/9792_Miguel_Martin_MACHINE_LEARNING_TO_SIMULATE_INTERACTIONS_BETWEEN_BUILDINGS_AND_THEIR_OUTDOOR_CONDITIONS.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/plea2024/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/plea2024/</guid>
+      <description>&lt;p&gt;During the PLEA 2024 international conference in Wroclaw (Poland), I presented preliminary results obtained from detailed building energy models coupled with a data driven urban canopy model. It includes the validation of the coupled scheme  and a baseline-scenarios analysis. My presentation was on &lt;strong&gt;June 26 2024 between 12:40pm and 12:50pm CET&lt;/strong&gt;. The content of the presentation is available &lt;a href=&#34;http://localhost:1313/news/Presentation_Miguel_Martin_Fehlmann_METHOD_1-1407_Mission_Adaptation_5.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/ccai/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/ccai/</guid>
+      <description>&lt;p&gt;On &lt;strong&gt;June 17 2024 between 10:30am and 12pm EST&lt;/strong&gt;, I gave a talk on applications of machine learning to urban building energy modelling and climate risk assessment during the Climate Change AI seminar series. This session comprised a 30-minute presentation on my past experience and current research and a 45-minute discussion on the following topics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Computer science and physics to study urban sustainability&lt;/li&gt;&#xA;&lt;li&gt;Machine learning to predict outdoor conditions&lt;/li&gt;&#xA;&lt;li&gt;Machine learning to calibrate an urban building energy model&lt;/li&gt;&#xA;&lt;li&gt;Machine learning to assess climate risk&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The content of the presentation can be found &lt;a href=&#34;http://localhost:1313/news/CCAI_discussion_seminar_series.pdf&#34;&gt;here&lt;/a&gt;. A follow-up discussion forum is availble &lt;a href=&#34;https://community.climatechange.ai/c/webinars/seeking-your-feedback-on-ccai-discussion-seminar-1-machine-learning-applied-to-urban-building-energy-modelling-and-climate-risk-assessment-by-dr-miguel-martin&#34;&gt;here&lt;/a&gt;. A recorded video of the presentation is available on Youtube &lt;a href=&#34;https://www.youtube.com/watch?v=eHShZhH3Ae4&amp;amp;t=34s&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/esim2024/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/esim2024/</guid>
+      <description>&lt;p&gt;On &lt;strong&gt;June 6 2024&lt;/strong&gt;, I presented my research on the impact of interactions between buildings and their outdoor conditions on the calibration of an urban building energy model during the eSim 2024 in Edmonton (Canada). Please find the content of my presentation &lt;a href=&#34;http://localhost:1313/news/151_MARTIN_MIGUEL.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

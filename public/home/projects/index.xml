@@ -2,16 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Current projects on Miguel Martin</title>
-    <link>http://miguelmartin.org/home/projects/</link>
+    <link>http://localhost:1313/home/projects/</link>
     <description>Recent content in Current projects on Miguel Martin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://miguelmartin.org/home/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/home/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BEAM</title>
+      <link>http://localhost:1313/home/projects/beam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/projects/beam/</guid>
+      <description>&lt;p&gt;The Baselining, Evaluating, Action, and Monitoring (BEAM) project is part of the CoolNUS initiative by the NUS president, University Campus Infrastructure (UCI), and College of Design and Engineering (CDE) to develop a test bed for urban microclimate sensing and modelling.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>SCIENCES</title>
-      <link>http://miguelmartin.org/home/projects/sciences/</link>
+      <link>http://localhost:1313/home/projects/sciences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/home/projects/sciences/</guid>
+      <guid>http://localhost:1313/home/projects/sciences/</guid>
       <description>&lt;p&gt;The Smart City Innovations and Experiments using New Climate and Energy Simulations (SCIENCES) project is funded by the European commission and managed by the Delft University of Technology in association with Carnegie Mellon University.&lt;/p&gt;</description>
     </item>
   </channel>

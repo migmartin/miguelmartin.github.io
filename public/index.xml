@@ -2,137 +2,186 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miguel Martin</title>
-    <link>http://miguelmartin.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Miguel Martin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://miguelmartin.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://miguelmartin.org/home/about/</link>
+      <link>http://localhost:1313/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/home/about/</guid>
-      <description>I have more than 10 years of experience in the field of urban climate and building energy efficiency. I have essentially studied interactions between buildings and their outdoor environment using both experimental and modelling approaches. I have conducted various field experiments in the outdoor built environment using automatic weather stations, meteorological flux towers, and infrared thermal cameras. Data I have collected through fields experiments have been used to either validate physically-based models or train data-driven models.</description>
+      <guid>http://localhost:1313/home/about/</guid>
+      <description>&lt;p&gt;I have more than 10 years of experience in the field of urban climate and building energy efficiency. I have essentially studied interactions between buildings and their outdoor environment using both experimental and modelling approaches. I have conducted various field experiments in the outdoor built environment using automatic weather stations, meteorological flux towers, and infrared thermal cameras. Data I have collected through fields experiments have been used to either validate physically-based models or train data-driven models. Using the models, I have performed various analysis at the building and neighbourhood scale to predict the impact of urban heat islands on building energy consumption and to evaluate various countermeasures. The main objective of the analysis has been to show architects how to make buildings more energy effective and urban planners how to make cities more environmentally sustainable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Background</title>
-      <link>http://miguelmartin.org/home/background/</link>
+      <link>http://localhost:1313/home/background/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/home/background/</guid>
-      <description>I received my Bachelor and Master degree in Computer Science at the University of Geneve (Switzerland). At the end of my Master, I wrote a thesis about humain-machine interactions using brain waves.&#xA;As a first professional experience in research, I worked at the Energy Center of the Swiss Federal Institute of Technology Lausanne. I was hired in a project to study energy flows in Switzerland. The project enabled me to realize the importance of buildings in the total consumption of energy within a country.</description>
+      <guid>http://localhost:1313/home/background/</guid>
+      <description>&lt;p&gt;I received my Bachelor and Master degree in Computer Science at the &lt;a href=&#34;https://www.unige.ch/en/&#34;&gt;University of Geneve&lt;/a&gt; (Switzerland). At the end of my Master, I wrote a thesis about humain-machine interactions using brain waves.&lt;/p&gt;&#xA;&lt;p&gt;As a first professional experience in research, I worked at the &lt;a href=&#34;https://www.epfl.ch/research/domains/energy-center/&#34;&gt;Energy Center&lt;/a&gt; of the &lt;a href=&#34;https://www.epfl.ch/en/&#34;&gt;Swiss Federal Institute of Technology Lausanne&lt;/a&gt;. I was hired in a project to study energy flows in Switzerland. The project enabled me to realize the importance of buildings in the total consumption of energy within a country. I could also see how computer science and information technologies can help in the development of smarter and more sustainable cities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Awards</title>
-      <link>http://miguelmartin.org/awards/</link>
+      <link>http://localhost:1313/awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/awards/</guid>
-      <description> Marie-Curie Postdoctoral Global Fellowship, European Commission, 2022 Best paper award, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 Best oral presentation, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 President’s Graduate Fellowship, National University of Singapore, Singapore, 2019 NUS Research Scholarship, National University of Singapore, Singapore, 2016 </description>
+      <guid>http://localhost:1313/awards/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Marie-Curie Postdoctoral Global Fellowship, European Commission, 2022&lt;/li&gt;&#xA;&lt;li&gt;Best paper award, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019&lt;/li&gt;&#xA;&lt;li&gt;Best oral presentation, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019&lt;/li&gt;&#xA;&lt;li&gt;President’s Graduate Fellowship, National University of Singapore, Singapore, 2019&lt;/li&gt;&#xA;&lt;li&gt;NUS Research Scholarship, National University of Singapore, Singapore, 2016&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/smartlivinglab2024/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/smartlivinglab2024/</guid>
+      <description>&lt;p&gt;On &lt;strong&gt;September 13 2024&lt;/strong&gt;, I presented my research sponsored by the Marie Curie Postdoctoral fellowship at the Smart Living Lab in Fribourg (Switzerland). The content of the presentation is available &lt;a href=&#34;http://localhost:1313/news/Presentation_Miguel_Martin_EPFL_Smart_Living_Lab.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/gni2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/gni2024/</guid>
+      <description>&lt;p&gt;On &lt;strong&gt;September 11 2024&lt;/strong&gt;, I presented my research on the use of machine learning to simulate interactions between buildings and their outdoor conditions during the GNI Symposium &amp;amp; Expo on Artificial Intelligence for the Built World in Munich. The content of the presentation is available &lt;a href=&#34;http://localhost:1313/news/9792_Miguel_Martin_MACHINE_LEARNING_TO_SIMULATE_INTERACTIONS_BETWEEN_BUILDINGS_AND_THEIR_OUTDOOR_CONDITIONS.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/plea2024/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/plea2024/</guid>
+      <description>&lt;p&gt;During the PLEA 2024 international conference in Wroclaw (Poland), I presented preliminary results obtained from detailed building energy models coupled with a data driven urban canopy model. It includes the validation of the coupled scheme  and a baseline-scenarios analysis. My presentation was on &lt;strong&gt;June 26 2024 between 12:40pm and 12:50pm CET&lt;/strong&gt;. The content of the presentation is available &lt;a href=&#34;http://localhost:1313/news/Presentation_Miguel_Martin_Fehlmann_METHOD_1-1407_Mission_Adaptation_5.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coupling between detailed building energy models and a data driven urban canopy model</title>
+      <link>http://localhost:1313/publications/martin2024coupling/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/martin2024coupling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/ccai/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/ccai/</guid>
+      <description>&lt;p&gt;On &lt;strong&gt;June 17 2024 between 10:30am and 12pm EST&lt;/strong&gt;, I gave a talk on applications of machine learning to urban building energy modelling and climate risk assessment during the Climate Change AI seminar series. This session comprised a 30-minute presentation on my past experience and current research and a 45-minute discussion on the following topics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Computer science and physics to study urban sustainability&lt;/li&gt;&#xA;&lt;li&gt;Machine learning to predict outdoor conditions&lt;/li&gt;&#xA;&lt;li&gt;Machine learning to calibrate an urban building energy model&lt;/li&gt;&#xA;&lt;li&gt;Machine learning to assess climate risk&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The content of the presentation can be found &lt;a href=&#34;http://localhost:1313/news/CCAI_discussion_seminar_series.pdf&#34;&gt;here&lt;/a&gt;. A follow-up discussion forum is availble &lt;a href=&#34;https://community.climatechange.ai/c/webinars/seeking-your-feedback-on-ccai-discussion-seminar-1-machine-learning-applied-to-urban-building-energy-modelling-and-climate-risk-assessment-by-dr-miguel-martin&#34;&gt;here&lt;/a&gt;. A recorded video of the presentation is available on Youtube &lt;a href=&#34;https://www.youtube.com/watch?v=eHShZhH3Ae4&amp;amp;t=34s&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impact of interactions between buildings and their outdoor conditions on the calibration of an urban building energy model</title>
+      <link>http://localhost:1313/publications/martin2024impact/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/martin2024impact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/news/esim2024/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/esim2024/</guid>
+      <description>&lt;p&gt;On &lt;strong&gt;June 6 2024&lt;/strong&gt;, I presented my research on the impact of interactions between buildings and their outdoor conditions on the calibration of an urban building energy model during the eSim 2024 in Edmonton (Canada). Please find the content of my presentation &lt;a href=&#34;http://localhost:1313/news/151_MARTIN_MIGUEL.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>InfraRed Investigation in Singapore (IRIS) Observatory: Urban heat island contributors and mitigators analysis using neighborhood-scale thermal imaging</title>
-      <link>http://miguelmartin.org/publications/martin2024infrared/</link>
+      <link>http://localhost:1313/publications/martin2024infrared/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2024infrared/</guid>
+      <guid>http://localhost:1313/publications/martin2024infrared/</guid>
       <description></description>
     </item>
     <item>
       <title>Longitudinal thermal imaging for scalable non-residential HVAC and occupant behaviour characterization</title>
-      <link>http://miguelmartin.org/publications/ramani2023longitudinal/</link>
+      <link>http://localhost:1313/publications/ramani2023longitudinal/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/ramani2023longitudinal/</guid>
+      <guid>http://localhost:1313/publications/ramani2023longitudinal/</guid>
       <description></description>
     </item>
     <item>
       <title>Infrared thermography in the built environment: A multi-scale review</title>
-      <link>http://miguelmartin.org/publications/martin2022infrared/</link>
+      <link>http://localhost:1313/publications/martin2022infrared/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2022infrared/</guid>
+      <guid>http://localhost:1313/publications/martin2022infrared/</guid>
       <description></description>
     </item>
     <item>
       <title>A physically-based model of interactions between a building and its outdoor conditions at the urban microscale</title>
-      <link>http://miguelmartin.org/publications/miguel2021physically/</link>
+      <link>http://localhost:1313/publications/miguel2021physically/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/miguel2021physically/</guid>
+      <guid>http://localhost:1313/publications/miguel2021physically/</guid>
       <description></description>
     </item>
     <item>
       <title>An integrated multiscale urban microclimate model for the urban thermal environment</title>
-      <link>http://miguelmartin.org/publications/wong2021integrated/</link>
+      <link>http://localhost:1313/publications/wong2021integrated/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/wong2021integrated/</guid>
+      <guid>http://localhost:1313/publications/wong2021integrated/</guid>
       <description></description>
     </item>
     <item>
       <title>Impact of retro-reflective glass façades on the surface temperature of street pavements in business areas of Singapore and Tokyo</title>
-      <link>http://miguelmartin.org/publications/martin2019impact/</link>
+      <link>http://localhost:1313/publications/martin2019impact/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2019impact/</guid>
+      <guid>http://localhost:1313/publications/martin2019impact/</guid>
       <description></description>
     </item>
     <item>
       <title>Comparison between simplified and detailed EnergyPlus models coupled with an urban canopy model</title>
-      <link>http://miguelmartin.org/publications/martin2017comparison/</link>
+      <link>http://localhost:1313/publications/martin2017comparison/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2017comparison/</guid>
+      <guid>http://localhost:1313/publications/martin2017comparison/</guid>
       <description></description>
     </item>
     <item>
       <title>Multi-scale urban system modeling for sustainable planning and design</title>
-      <link>http://miguelmartin.org/publications/lim2017multi/</link>
+      <link>http://localhost:1313/publications/lim2017multi/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/lim2017multi/</guid>
+      <guid>http://localhost:1313/publications/lim2017multi/</guid>
       <description></description>
     </item>
     <item>
       <title>A new validation protocol for an urban microclimate model based on temperature measurements in a Central European city</title>
-      <link>http://miguelmartin.org/publications/martin2016new/</link>
+      <link>http://localhost:1313/publications/martin2016new/</link>
       <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2016new/</guid>
+      <guid>http://localhost:1313/publications/martin2016new/</guid>
       <description></description>
     </item>
     <item>
       <title>Estimation of urban temperature and humidity using a lumped parameter model coupled with an EnergyPlus model</title>
-      <link>http://miguelmartin.org/publications/martin2015estimation/</link>
+      <link>http://localhost:1313/publications/martin2015estimation/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2015estimation/</guid>
+      <guid>http://localhost:1313/publications/martin2015estimation/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://miguelmartin.org/home/subheader/</link>
+      <link>http://localhost:1313/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/home/subheader/</guid>
-      <description>I am a postdoctoral researcher sponsored by the Marie-Curie Global fellowship to contribute to the mission Climate Neutral and Smart Cities in collaboration with the Delft University of Technology and Carnegie Mellon University.</description>
+      <guid>http://localhost:1313/home/subheader/</guid>
+      <description>&lt;p&gt;I am a postdoctoral researcher sponsored by the &lt;a href=&#34;https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships&#34;&gt;Marie-Curie Global fellowship&lt;/a&gt; to contribute to the mission &lt;a href=&#34;https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe/climate-neutral-and-smart-cities_en&#34;&gt;Climate Neutral and Smart Cities&lt;/a&gt; in collaboration with the &lt;a href=&#34;https://www.tudelft.nl/en/&#34;&gt;Delft University of Technology&lt;/a&gt; and &lt;a href=&#34;https://www.cmu.edu/&#34;&gt;Carnegie Mellon University&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://miguelmartin.org/teaching/teaching_philosophy/</link>
+      <link>http://localhost:1313/teaching/teaching_philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/teaching/teaching_philosophy/</guid>
-      <description>Teachning is not only a way for me to tranfer the knowledge I acquired in the fields of computer and building sciences, but also an opprtunity to learn from others. For that reason, I highly encourage students to actively participate in class rather than passively listening to the instructor. Through active learning, I am able to evaluate student&amp;rsquo;s entry level at the early stage of the course, provide adequate feedback and guidance at each important stage of their learning curve, and ensure they will achieve their learning objectives at the end of their curriculum.</description>
+      <guid>http://localhost:1313/teaching/teaching_philosophy/</guid>
+      <description>&lt;p&gt;Teachning is not only a way for me to tranfer the knowledge I acquired in the fields of computer and building sciences, but also an opprtunity to learn from others. For that reason, I highly encourage students to actively participate in class rather than passively listening to the instructor. Through active learning, I am able to evaluate student&amp;rsquo;s entry level at the early stage of the course, provide adequate feedback and guidance at each important stage of their learning curve, and ensure they will achieve their learning objectives at the end of their curriculum. At the same time, I always hope that discussions I have with students will motivate me in exploring new aspects of my research that I have not considered so far.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Autonomous Sustainable Buildings: From Theory to Practice (12-770)</title>
-      <link>http://miguelmartin.org/teaching/ceecmu12770/</link>
+      <title>BEAM</title>
+      <link>http://localhost:1313/home/projects/beam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/teaching/ceecmu12770/</guid>
-      <description>In this course, I teach fundamental notions in Building Physics and their applications using EnergyPlus. I also provide guidance to students in their assignments and final group projects. I contributed to the course material for the following lectures:&#xA;Lecture 5: Energy Use in Buildings (Slides) Lecture 6: Thermodynamics Part 1 (Slides) Lecture 7: Thermodynamics Part 2 (Slides) Lecture 8: Thermal comfort (Slides) Lecture 9: Building Energy Simulations Part 1 (Slides, ZIP, Videos) Lecture 10: Building Energy Simulations Part 2 (Slides, ZIP, Videos) </description>
+      <guid>http://localhost:1313/home/projects/beam/</guid>
+      <description>&lt;p&gt;The Baselining, Evaluating, Action, and Monitoring (BEAM) project is part of the CoolNUS initiative by the NUS president, University Campus Infrastructure (UCI), and College of Design and Engineering (CDE) to develop a test bed for urban microclimate sensing and modelling.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SCIENCES</title>
-      <link>http://miguelmartin.org/home/projects/sciences/</link>
+      <link>http://localhost:1313/home/projects/sciences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/home/projects/sciences/</guid>
+      <guid>http://localhost:1313/home/projects/sciences/</guid>
       <description>&lt;p&gt;The Smart City Innovations and Experiments using New Climate and Energy Simulations (SCIENCES) project is funded by the European commission and managed by the Delft University of Technology in association with Carnegie Mellon University.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching experience</title>
-      <link>http://miguelmartin.org/teaching/teaching_experience/</link>
+      <link>http://localhost:1313/teaching/teaching_experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/teaching/teaching_experience/</guid>
-      <description> Teaching assistant, Digital construction (PF1103), Department of Building Science, School of Design and Environment, National University of Singapore, Spring 2019&#xA;(Instructor: Miller Clayton) Teaching assistant, Project in software engineering (CS 13X008), Department of Computer Science, Faculty of Sciences, University of Geneva, Spring 2010&#xA;(Instructor: Marchand-Maillet Stephane) Teaching assistant, Software engineering (CS 13X003), Department of Computer Science, Faculty of Sciences, University of Geneva, Fall 2009 (Instructor: Marchand-Maillet Stephane) </description>
+      <guid>http://localhost:1313/teaching/teaching_experience/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Co-Instructor&lt;/strong&gt;, Autonomous Sustainable Buildings: From Theory to Practice (12-770), Department of Civil and Environmental Engineering, Carnegie Mellon University, Spring 2024&lt;br&gt;&#xA;(Main instructor: Mario Berges)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lecture 5: Energy Use in Buildings (&lt;a href=&#34;http://localhost:1313/teaching/CEECMU12770/12-770_Lecture_5_BuildingPhysics_Energy_Use_in_Buildings.pdf&#34;&gt;Slides&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Lecture 6: Thermodynamics Part 1 (&lt;a href=&#34;http://localhost:1313/teaching/CEECMU12770/12-770_Lecture_6_BuildingPhysics_Thermodynamics_Part_1.pdf&#34;&gt;Slides&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Lecture 7: Thermodynamics Part 2 (&lt;a href=&#34;http://localhost:1313/teaching/CEECMU12770/12-770_Lecture_7_BuildingPhysics_Thermodynamics_Part_2.pdf&#34;&gt;Slides&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Lecture 8: Thermal comfort (&lt;a href=&#34;http://localhost:1313/teaching/CEECMU12770/12-770_Lecture_8_BuildingPhysics_Thermal_Comfort.pdf&#34;&gt;Slides&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Lecture 9: Building Energy Simulations Part 1 (&lt;a href=&#34;http://localhost:1313/teaching/CEECMU12770/12-770_Lecture_9_Building_Energy_Simulations_Part_1.pdf&#34;&gt;Slides&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/teaching/CEECMU12770/material_part_1.zip&#34;&gt;ZIP&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/playlist?list=PL17rJuX4QCblKZgSvASJJoTpWtYsJhuON&#34;&gt;Videos&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Lecture 10: Building Energy Simulations Part 2 (&lt;a href=&#34;http://localhost:1313/teaching/CEECMU12770/12-770_Lecture_10_Building_Energy_Simulations_Part_2.pdf&#34;&gt;Slides&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/teaching/CEECMU12770/material_part_2.zip&#34;&gt;ZIP&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/playlist?list=PL17rJuX4QCblKZgSvASJJoTpWtYsJhuON&#34;&gt;Videos&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Teaching assistant&lt;/strong&gt;, Digital construction (PF1103), Department of Building Science, School of Design and Environment, National University of Singapore, Spring 2019&lt;br&gt;&#xA;(Instructor: Miller Clayton)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Teaching assistant&lt;/strong&gt;, Project in software engineering (CS 13X008), Department of Computer Science, Faculty of Sciences, University of Geneva, Spring 2010&lt;br&gt;&#xA;(Instructor: Marchand-Maillet Stephane)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Teaching assistant&lt;/strong&gt;, Software engineering (CS 13X003), Department of Computer Science, Faculty of Sciences, University of Geneva, Fall 2009&#xA;(Instructor: Marchand-Maillet Stephane)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

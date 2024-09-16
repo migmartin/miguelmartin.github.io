@@ -2,66 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://miguelmartin.org/home/about/</loc>
+    <loc>http://localhost:1313/news/gni2024/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/publications/</loc>
+    <loc>http://localhost:1313/home/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/publications/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/smartlivinglab2024/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/background/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/awards/</loc>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/plea2024/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/martin2024coupling/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/ccai/</loc>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/martin2024impact/</loc>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/esim2024/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/martin2024infrared/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/home/background/</loc>
-  </url><url>
-    <loc>http://miguelmartin.org/home/projects/</loc>
-  </url><url>
-    <loc>http://miguelmartin.org/awards/</loc>
-  </url><url>
-    <loc>http://miguelmartin.org/publications/martin2024infrared/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://miguelmartin.org/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://miguelmartin.org/publications/ramani2023longitudinal/</loc>
+    <loc>http://localhost:1313/publications/ramani2023longitudinal/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/publications/martin2022infrared/</loc>
+    <loc>http://localhost:1313/publications/martin2022infrared/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/publications/miguel2021physically/</loc>
+    <loc>http://localhost:1313/publications/miguel2021physically/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/publications/wong2021integrated/</loc>
+    <loc>http://localhost:1313/publications/wong2021integrated/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/publications/martin2019impact/</loc>
+    <loc>http://localhost:1313/publications/martin2019impact/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/publications/martin2017comparison/</loc>
+    <loc>http://localhost:1313/publications/martin2017comparison/</loc>
     <lastmod>2017-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/publications/lim2017multi/</loc>
+    <loc>http://localhost:1313/publications/lim2017multi/</loc>
     <lastmod>2017-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/publications/martin2016new/</loc>
+    <loc>http://localhost:1313/publications/martin2016new/</loc>
     <lastmod>2016-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/publications/martin2015estimation/</loc>
+    <loc>http://localhost:1313/publications/martin2015estimation/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/home/subheader/</loc>
+    <loc>http://localhost:1313/home/subheader/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/teaching/teaching_philosophy/</loc>
+    <loc>http://localhost:1313/teaching/teaching_philosophy/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/teaching/ceecmu12770/</loc>
+    <loc>http://localhost:1313/home/projects/beam/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/home/</loc>
+    <loc>http://localhost:1313/home/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/home/projects/sciences/</loc>
+    <loc>http://localhost:1313/home/projects/sciences/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/teaching/teaching_experience/</loc>
+    <loc>http://localhost:1313/teaching/teaching_experience/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
   </url>
 </urlset>

@@ -2,80 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Miguel Martin</title>
-    <link>http://miguelmartin.org/publications/</link>
+    <link>http://localhost:1313/publications/</link>
     <description>Recent content in Publications on Miguel Martin</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://miguelmartin.org/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coupling between detailed building energy models and a data driven urban canopy model</title>
+      <link>http://localhost:1313/publications/martin2024coupling/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/martin2024coupling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impact of interactions between buildings and their outdoor conditions on the calibration of an urban building energy model</title>
+      <link>http://localhost:1313/publications/martin2024impact/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/martin2024impact/</guid>
+      <description></description>
+    </item>
     <item>
       <title>InfraRed Investigation in Singapore (IRIS) Observatory: Urban heat island contributors and mitigators analysis using neighborhood-scale thermal imaging</title>
-      <link>http://miguelmartin.org/publications/martin2024infrared/</link>
+      <link>http://localhost:1313/publications/martin2024infrared/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2024infrared/</guid>
+      <guid>http://localhost:1313/publications/martin2024infrared/</guid>
       <description></description>
     </item>
     <item>
       <title>Longitudinal thermal imaging for scalable non-residential HVAC and occupant behaviour characterization</title>
-      <link>http://miguelmartin.org/publications/ramani2023longitudinal/</link>
+      <link>http://localhost:1313/publications/ramani2023longitudinal/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/ramani2023longitudinal/</guid>
+      <guid>http://localhost:1313/publications/ramani2023longitudinal/</guid>
       <description></description>
     </item>
     <item>
       <title>Infrared thermography in the built environment: A multi-scale review</title>
-      <link>http://miguelmartin.org/publications/martin2022infrared/</link>
+      <link>http://localhost:1313/publications/martin2022infrared/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2022infrared/</guid>
+      <guid>http://localhost:1313/publications/martin2022infrared/</guid>
       <description></description>
     </item>
     <item>
       <title>A physically-based model of interactions between a building and its outdoor conditions at the urban microscale</title>
-      <link>http://miguelmartin.org/publications/miguel2021physically/</link>
+      <link>http://localhost:1313/publications/miguel2021physically/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/miguel2021physically/</guid>
+      <guid>http://localhost:1313/publications/miguel2021physically/</guid>
       <description></description>
     </item>
     <item>
       <title>An integrated multiscale urban microclimate model for the urban thermal environment</title>
-      <link>http://miguelmartin.org/publications/wong2021integrated/</link>
+      <link>http://localhost:1313/publications/wong2021integrated/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/wong2021integrated/</guid>
+      <guid>http://localhost:1313/publications/wong2021integrated/</guid>
       <description></description>
     </item>
     <item>
       <title>Impact of retro-reflective glass façades on the surface temperature of street pavements in business areas of Singapore and Tokyo</title>
-      <link>http://miguelmartin.org/publications/martin2019impact/</link>
+      <link>http://localhost:1313/publications/martin2019impact/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2019impact/</guid>
+      <guid>http://localhost:1313/publications/martin2019impact/</guid>
       <description></description>
     </item>
     <item>
       <title>Comparison between simplified and detailed EnergyPlus models coupled with an urban canopy model</title>
-      <link>http://miguelmartin.org/publications/martin2017comparison/</link>
+      <link>http://localhost:1313/publications/martin2017comparison/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2017comparison/</guid>
+      <guid>http://localhost:1313/publications/martin2017comparison/</guid>
       <description></description>
     </item>
     <item>
       <title>Multi-scale urban system modeling for sustainable planning and design</title>
-      <link>http://miguelmartin.org/publications/lim2017multi/</link>
+      <link>http://localhost:1313/publications/lim2017multi/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/lim2017multi/</guid>
+      <guid>http://localhost:1313/publications/lim2017multi/</guid>
       <description></description>
     </item>
     <item>
       <title>A new validation protocol for an urban microclimate model based on temperature measurements in a Central European city</title>
-      <link>http://miguelmartin.org/publications/martin2016new/</link>
+      <link>http://localhost:1313/publications/martin2016new/</link>
       <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2016new/</guid>
+      <guid>http://localhost:1313/publications/martin2016new/</guid>
       <description></description>
     </item>
     <item>
       <title>Estimation of urban temperature and humidity using a lumped parameter model coupled with an EnergyPlus model</title>
-      <link>http://miguelmartin.org/publications/martin2015estimation/</link>
+      <link>http://localhost:1313/publications/martin2015estimation/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/publications/martin2015estimation/</guid>
+      <guid>http://localhost:1313/publications/martin2015estimation/</guid>
       <description></description>
     </item>
   </channel>
