@@ -3,6 +3,8 @@ type = "teaching_experience"
 title = "Teaching experience"
 +++
 
+- **Teaching Assistant**, Modeling wind and dispersion in the urban environments (GEO5051), Faculty of Architecture and the Built Environment, Delft University of Technology, Spring 2025
+(Instructor: Clara Garcia-Sanchez)
 - **Co-Instructor**, Autonomous Sustainable Buildings: From Theory to Practice (12-770), Department of Civil and Environmental Engineering, Carnegie Mellon University, Spring 2024  
 (Main instructor: Mario Berges)
 	- Lecture 5: Energy Use in Buildings ([Slides](/teaching/CEECMU12770/12-770_Lecture_5_BuildingPhysics_Energy_Use_in_Buildings.pdf))

@@ -1,5 +1,5 @@
 +++
-title = "News"
-menu = "news"
+title = "Events"
+menu = "events"
 weight = 6
 +++

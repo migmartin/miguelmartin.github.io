@@ -8,8 +8,8 @@ theme = "hugo-initio"
     name = "Dr. Miguel Martin"
     description = "Postdoctoral Research Fellow"
     email = "M.Martin@tudelft.nl"
-    phone = "+1-412-475-1521"
-    address = "119 Forbes Ave, 5000 Porter Hall, PA 15213"
+    phone = "+31644381309"
+    address = "Julianalaan 134, 2628 BL, Delft, Netherlands"
     year = 2024
     avatar = "images/Miguel_Martin.jpg"
     avatarclass = "circle"
@@ -53,8 +53,8 @@ theme = "hugo-initio"
   weight = 5
 
 [[menu.main]]
-    identifier = "news"
-    name = "News"
+    identifier = "events"
+    name = "Events"
     url = "/news/"
     weight = 6
 
@@ -84,12 +84,12 @@ theme = "hugo-initio"
     sharethis = false
     network = ""
 [[params.social]]
-	title = "google scholar"
-	url = "https://scholar.google.com/citations?hl=en&user=60sstlEAAAAJ"
+	title = "scopus"
+	url = "https://www.scopus.com/authid/detail.uri?authorId=56037196400"
     icon = "fab fa-google"
     footer = true
     sharethis = false
-    network = "google"
+    network = "scopus"
 [[params.social]]
 	title = "YouTube"
 	url = "https://www.youtube.com/channel/UCNomvpB-Vr5yE--wM0e4xvA"
