@@ -1,6 +1,6 @@
 +++
 type = "vision_item"
-title = "Predict urban carbon concentration"
+title = "Model thermal and carbon interactions"
 weight = 2
 +++
 
