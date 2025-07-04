@@ -1,0 +1,17 @@
++++
+type = "vision_item"
+title = "Predict urban carbon concentration"
+weight = 2
++++
+
+In addition to observing urban carbon sources and sinks, I suggest to develop novel models of carbon exchanges between buildings and their outdoor environments, which will extend my previous work on physics-based thermal interaction modeling conducted at the Masdar Institute of Science and Technology (MIST) and NUS [^1] [^2] [^3] [^4]. To address the computational cost and parameter complexity of physics-based models [^5], I collaborated with CMU on machine learning. While faster and simpler, machine learning requires extensive training data and lack interpretability [^6] [^7]. My current research aims to determine the scales, climates, and applications for which physics-based models and/or machine learning are suitable for simulations of thermal interactions. Among applications, city digital twins are certainly of the most significant interest to industry leaders and policy makers.
+
+Existing models, whether based on physics or machine learning, have focused on thermal interactions [^5], sufficient for building energy and urban overheating studies, but inadequate for complete decarbonization analysis. To address this gap, models should incorporate carbon exchanges between buildings and their outdoor environment. As a first step, I am developing an urban building energy model that serves as input for computational fluid dynamics to simulate carbon dispersion within the urban canopy. The next step is to determine whether carbon exchange can be accurately simulated using simplified physics and machine learning. Similar to thermal interactions, the accuracy and performance of carbon exchange models should be assessed across various scales and within different climates.
+
+[^1]: Martin, M., Afshari, A., Armstrong, P. R., & Norford, L. K. (2015). Estimation of urban temperature and humidity using a lumped parameter model coupled with an EnergyPlus model. Energy and Buildings, 96, 221-235.
+[^2]: Martin, M., Afshari, A., Armstrong, P. R., & Norford, L. K. (2016). A new validation protocol for an urban microclimate model based on temperature measurements in a Central European city. Energy and Buildings, 114, 38-53.
+[^3]: Martin, M., Wong, N. H., Hii, D. J. C., & Ignatius, M. (2017). Comparison between simplified and detailed EnergyPlus models coupled with an urban canopy model. Energy and Buildings, 157, 116-125.
+[^4]: Miguel, M., Hien, W. N., Marcel, I., Chung, H. D. J., Yueer, H., Zhonqi, Y., ... & Son, N. N. (2021). A physically-based model of interactions between a building and its outdoor conditions at the urban microscale. Energy and Buildings, 237, 110788.
+[^5]: Sezer, N., Yoonus, H., Zhan, D., Wang, L. L., Hassan, I. G., & Rahman, M. A. (2023). Urban microclimate and building energy models: A review of the latest progress in coupling strategies. Renewable and Sustainable Energy Reviews, 184, 113577.
+[^6]: Manfren, M., James, P. A., & Tronchin, L. (2022). Data-driven building energy modelling–An analysis of the potential for generalisation through interpretable machine learning. Renewable and Sustainable Energy Reviews, 167, 112686.
+[^7]: Wang, H., Yang, J., Chen, G., Ren, C., & Zhang, J. (2023). Machine learning applications on air temperature prediction in the urban canopy layer: A critical review of 2011–2022. Urban Climate, 49, 101499.

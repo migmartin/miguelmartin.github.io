@@ -1,0 +1,16 @@
+{{ define "main"}}
+  <main id="main">
+
+    <div class="container">
+        {{ partial "vision/summary_vision.html" . }}
+        {{ with .Data.Pages.ByWeight}}
+          {{ range . }}
+            {{ $type := .Params.type }}
+            {{ if eq $type "vision_item" }}
+                {{ partial "vision/vision_item.html" . }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+    </div>
+  </main>
+{{ end }}

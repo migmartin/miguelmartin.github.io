@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Miguel Martin</title>
+    <link>http://miguelmartin.org/news/</link>
+    <description>Recent content in Events on Miguel Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://miguelmartin.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://miguelmartin.org/news/eacwe2025/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/news/eacwe2025/</guid>
+      <description>On June 18 2025, I presentt the MORICHI dataset at the EACWE 2025 in Norway. The dataset is publicly availble here.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://miguelmartin.org/news/asim2024/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/news/asim2024/</guid>
+      <description>On December 9 2024, I presented my research on the use of machine learning to simulate interactions between buildings and their outdoor conditions during the GNI Symposium &amp;amp; Expo on Artificial Intelligence for the Built World in Munich. The content of the presentation is available here.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://miguelmartin.org/news/smartlivinglab2024/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/news/smartlivinglab2024/</guid>
+      <description>On September 13 2024, I presented my research sponsored by the Marie Curie Postdoctoral fellowship at the Smart Living Lab in Fribourg (Switzerland). The content of the presentation is available here.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://miguelmartin.org/news/gni2024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/news/gni2024/</guid>
+      <description>On September 11 2024, I presented my research on the use of machine learning to simulate interactions between buildings and their outdoor conditions during the GNI Symposium &amp;amp; Expo on Artificial Intelligence for the Built World in Munich. The content of the presentation is available here.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://miguelmartin.org/news/plea2024/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/news/plea2024/</guid>
+      <description>During the PLEA 2024 international conference in Wroclaw (Poland), I presented preliminary results obtained from detailed building energy models coupled with a data driven urban canopy model. It includes the validation of the coupled scheme and a baseline-scenarios analysis. My presentation was on June 26 2024 between 12:40pm and 12:50pm CET. The content of the presentation is available here.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://miguelmartin.org/news/ccai/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/news/ccai/</guid>
+      <description>On June 17 2024 between 10:30am and 12pm EST, I gave a talk on applications of machine learning to urban building energy modelling and climate risk assessment during the Climate Change AI seminar series. This session comprised a 30-minute presentation on my past experience and current research and a 45-minute discussion on the following topics:&#xA;Computer science and physics to study urban sustainability Machine learning to predict outdoor conditions Machine learning to calibrate an urban building energy model Machine learning to assess climate risk The content of the presentation can be found here.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://miguelmartin.org/news/esim2024/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/news/esim2024/</guid>
+      <description>On June 6 2024, I presented my research on the impact of interactions between buildings and their outdoor conditions on the calibration of an urban building energy model during the eSim 2024 in Edmonton (Canada). Please find the content of my presentation here.</description>
+    </item>
+  </channel>
+</rss>

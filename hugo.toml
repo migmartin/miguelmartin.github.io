@@ -41,22 +41,28 @@ theme = "hugo-initio"
     weight = 2
 
 [[menu.main]]
+    identifier = "vision"
+    name = "Research Vision"
+    url = "/vision/"
+    weight = 3
+
+[[menu.main]]
     identifier = "teaching"
     name = "Teaching"
     url = "/teaching/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
   identifier = "cv"
   name = "CV"
   url = "/cv/cv_miguel_martin.pdf"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
     identifier = "events"
     name = "Events"
     url = "/news/"
-    weight = 6
+    weight = 7
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

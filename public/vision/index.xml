@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Vision on Miguel Martin</title>
+    <link>http://miguelmartin.org/vision/</link>
+    <description>Recent content in Research Vision on Miguel Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://miguelmartin.org/vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://miguelmartin.org/vision/summary_vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/vision/summary_vision/</guid>
+      <description>To date, my research has primarily focused on building energy performance and urban overheating, utilizing physics-based models of thermal interactions between buildings and their outdoor environment. In light of findings reported in various studies12, I have come to realize that urban decarbonization must extend beyond building energy performance to effectively mitigate climate change. For this reason, I have recently developed an interest in assessing the potential of new building materials and urban designs to transform cities into carbon sinks.</description>
+    </item>
+    <item>
+      <title>Monitor urban carbon sources and sinks</title>
+      <link>http://miguelmartin.org/vision/monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/vision/monitoring/</guid>
+      <description>For the past five years, I have studied monitoring approaches to observe factors contributing to and mitigating urban overheating. During my tenure at a collaborative research alliance between the University of California Berkeley (UCB) and the National University of Singapore (NUS), I reviewed approaches relying on infrared thermography1 and established Singapore&amp;rsquo;s first rooftop observatory for neighborhood-scale studies2. The rooftop observatory served as the foundation for a project administered by NUS, in which I participate as a research collaborator (see the link here).</description>
+    </item>
+  </channel>
+</rss>

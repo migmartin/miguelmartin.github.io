@@ -2,7 +2,7 @@
 title = "Awards"
 menu = "main"
 type = "awards"
-weight = 4
+weight = 5
 image_path = "../images/Portrait.jpg"
 +++
 

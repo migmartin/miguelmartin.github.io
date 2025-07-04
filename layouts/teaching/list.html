@@ -3,18 +3,6 @@
 
     <div class="container">
         {{ partial "teaching/teaching_philosphy.html" . }}
-        <!-- <h2 class="section-title">
-          <span>Currently teaching</span>
-        </h2> -->
-        {{ with .Data.Pages.ByDate.Reverse }}
-          {{ range . }}
-            {{ $type := .Params.type }}
-            {{ if eq $type "current-course" }}
-                <!-- Display Current Course -->
-                {{ partial "teaching/current_course.html" . }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
         {{ partial "teaching/teaching_experience.html" . }}
     </div>  <!-- /container -->
   </main>

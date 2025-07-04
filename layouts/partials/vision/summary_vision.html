@@ -1,0 +1,9 @@
+{{ range where .Site.Pages "Type" "summary_vision" }}
+<div class="row section topspace">
+    <div class="col-md-12">
+        <div class="lead text-justify text-muted">
+           {{ .Content }}
+        </div>
+    </div>
+</div>
+{{ end }}

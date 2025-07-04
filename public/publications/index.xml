@@ -6,8 +6,22 @@
     <description>Recent content in Publications on Miguel Martin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://miguelmartin.org/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coupling between detailed building energy models and a data driven urban canopy model</title>
+      <link>http://miguelmartin.org/publications/martin2024coupling/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/publications/martin2024coupling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impact of interactions between buildings and their outdoor conditions on the calibration of an urban building energy model</title>
+      <link>http://miguelmartin.org/publications/martin2024impact/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/publications/martin2024impact/</guid>
+      <description></description>
+    </item>
     <item>
       <title>InfraRed Investigation in Singapore (IRIS) Observatory: Urban heat island contributors and mitigators analysis using neighborhood-scale thermal imaging</title>
       <link>http://miguelmartin.org/publications/martin2024infrared/</link>
