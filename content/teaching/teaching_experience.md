@@ -3,6 +3,8 @@ type = "teaching_experience"
 title = "Teaching experience"
 +++
 
+- **Teaching Assistant**, Geographical Information Systems (GIS) and Cartography (GEO1002), Faculty of Architecture and the Built Environment, Delft University of Technology, Fall 2025
+(Instructor: Giorgio Agugiaro)
 - **Teaching Assistant**, Modeling wind and dispersion in the urban environments (GEO5051), Faculty of Architecture and the Built Environment, Delft University of Technology, Spring 2025
 (Instructor: Clara Garcia-Sanchez)
 - **Co-Instructor**, Autonomous Sustainable Buildings: From Theory to Practice (12-770), Department of Civil and Environmental Engineering, Carnegie Mellon University, Spring 2024  

@@ -6,7 +6,7 @@
   	<meta name="description" content="">
   	<meta name="author"      content="map[]">
     
-    	<title>Monitor urban overheating and carbon dioxide</title>
+    	<title>Model thermal and carbon interactions</title>
 	<link rel="shortcut icon" href="http://miguelmartin.orgimages/gt_favicon.png">
 
 	
@@ -120,23 +120,35 @@
  				<article class="post">
 					<header class="entry-header">
 						<h2 class="section-title">
-							<span>Monitor urban overheating and carbon dioxide</span>
+							<span>Model thermal and carbon interactions</span>
     				</h2>
 					</header>
 					<div class="entry-content">
-						<p>For the past five years, I have studied monitoring approaches to observe factors contributing to and mitigating urban overheating. During my tenure at a collaborative research alliance between the University of California Berkeley (UCB) and the National University of Singapore (NUS), I reviewed approaches relying on infrared thermography<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> and established Singapore&rsquo;s first rooftop observatory for neighborhood-scale studies<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>. The rooftop observatory served as the foundation for a project administered by NUS, in which I participate as a research collaborator (see the link <a href="https://www.coolnus-beam.sg/">here</a>). It was also used as a reference to collect thermal images of the outdoor built environment at the Carnegie Mellon University (CMU) campus (see the link <a href="https://data.4tu.nl/datasets/c5fb8062-af5d-491a-8faf-8be7fc390f48">here</a>). My expertise in monitoring urban overheating is currently being sought by <a href="https://rwdi.com/en_ca/">Rowan Williams Davis and Irvin Inc.</a>.</p>
-<p>Building on this expertise, my objective is to observe urban carbon sources and sinks. I plan to deploy large sensor networks to analyze carbon concentration in several built environments. While valuable, sensor networks are one of many monitoring approaches. To enhance multiscale observations, I intend to explore approaches using satellites and mobile systems as well. Multiscale observations of urban carbon sources and sinks could be used for a better assessment of urban carbon footprint in future investigations<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>.</p>
+						<p>In addition to observing urban carbon sources and sinks, I suggest to develop novel models of carbon exchanges between buildings and their outdoor environments, which will extend my previous work on physics-based thermal interaction modeling conducted at the Masdar Institute of Science and Technology (MIST) and NUS <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> <sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>. To address the computational cost and parameter complexity of physics-based models <sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>, I collaborated with CMU on machine learning. While faster and simpler, machine learning requires extensive training data and lack interpretability <sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup> <sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup>. My current research aims to determine the scales, climates, and applications for which physics-based models and/or machine learning are suitable for simulations of thermal interactions. Among applications, city digital twins are certainly of the most significant interest to industry leaders and policy makers.</p>
+<p>Existing models, whether based on physics or machine learning, have focused on thermal interactions <sup id="fnref1:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>, sufficient for building energy and urban overheating studies, but inadequate for complete decarbonization analysis. To address this gap, models should incorporate carbon exchanges between buildings and their outdoor environment. As a first step, I am developing an urban building energy model that serves as input for computational fluid dynamics to simulate carbon dispersion within the urban canopy. The next step is to determine whether carbon exchange can be accurately simulated using simplified physics and machine learning. Similar to thermal interactions, the accuracy and performance of carbon exchange models should be assessed across various scales and within different climates.</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1">
-<p>Martin, M., Chong, A., Biljecki, F., &amp; Miller, C. (2022). Infrared thermography in the built environment: A multi-scale review. Renewable and sustainable energy reviews, 165, 112540.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Martin, M., Afshari, A., Armstrong, P. R., &amp; Norford, L. K. (2015). Estimation of urban temperature and humidity using a lumped parameter model coupled with an EnergyPlus model. Energy and Buildings, 96, 221-235.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:2">
-<p>Martin, M., Ramani, V., &amp; Miller, C. (2024). InfraRed Investigation in Singapore (IRIS) Observatory: Urban heat island contributors and mitigators analysis using neighborhood-scale thermal imaging. Energy and Buildings, 307, 113973.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Martin, M., Afshari, A., Armstrong, P. R., &amp; Norford, L. K. (2016). A new validation protocol for an urban microclimate model based on temperature measurements in a Central European city. Energy and Buildings, 114, 38-53.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3">
-<p>Lombardi, M., Laiola, E., Tricase, C., &amp; Rana, R. (2017). Assessing the urban carbon footprint: An overview. Environmental Impact Assessment Review, 66, 43-52.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Martin, M., Wong, N. H., Hii, D. J. C., &amp; Ignatius, M. (2017). Comparison between simplified and detailed EnergyPlus models coupled with an urban canopy model. Energy and Buildings, 157, 116-125.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p>Miguel, M., Hien, W. N., Marcel, I., Chung, H. D. J., Yueer, H., Zhonqi, Y., &hellip; &amp; Son, N. N. (2021). A physically-based model of interactions between a building and its outdoor conditions at the urban microscale. Energy and Buildings, 237, 110788.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p>Sezer, N., Yoonus, H., Zhan, D., Wang, L. L., Hassan, I. G., &amp; Rahman, M. A. (2023). Urban microclimate and building energy models: A review of the latest progress in coupling strategies. Renewable and Sustainable Energy Reviews, 184, 113577.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6">
+<p>Manfren, M., James, P. A., &amp; Tronchin, L. (2022). Data-driven building energy modelling–An analysis of the potential for generalisation through interpretable machine learning. Renewable and Sustainable Energy Reviews, 167, 112686.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7">
+<p>Wang, H., Yang, J., Chen, G., Ren, C., &amp; Zhang, J. (2023). Machine learning applications on air temperature prediction in the urban canopy layer: A critical review of 2011–2022. Urban Climate, 49, 101499.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>

@@ -264,7 +264,6 @@ a:hover {
   font-size: 0.875rem;
   font-weight: bold;
   line-height: 1.2em;
-  color: #C41230;
   margin: 5px 0 0;
 }
 #head .tagline b {
@@ -272,7 +271,7 @@ a:hover {
 }
 #head .tagline a {
   font-weight: normal;
-  color: #333333;
+  color: #000000;
 }
 .home #head {
   padding: 90px 0;
@@ -280,11 +279,13 @@ a:hover {
 .home #head .title {
   font-size: 49px;
   font-size: 3.0625rem;
+  color: #000000;
 }
 .home #head .tagline {
   font-size: 16px;
   font-size: 1rem;
   margin: 15px 0 0;
+  color: #C41E3A;
 }
 /*********************************************************************
 

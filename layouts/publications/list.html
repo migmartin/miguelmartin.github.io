@@ -25,6 +25,17 @@
             {{ end }}
           {{ end }}
         {{ end }}
+        <h2 class="section-title">
+          <span>Online talks</span>
+        </h2>
+        {{ with .Data.Pages.ByDate.Reverse }}
+          {{ range . }}
+          {{ $type := .Params.type }}
+            {{ if eq $type "online-talk" }}
+              {{ partial "publications/online-talk.html" . }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
       </div>
     </div>
   </main>

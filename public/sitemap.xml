@@ -4,26 +4,36 @@
   <url>
     <loc>http://miguelmartin.org/home/about/</loc>
   </url><url>
+    <loc>http://miguelmartin.org/vision/monitoring/</loc>
+  </url><url>
     <loc>http://miguelmartin.org/publications/</loc>
     <lastmod>2024-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://miguelmartin.org/home/background/</loc>
   </url><url>
+    <loc>http://miguelmartin.org/vision/modelling/</loc>
+  </url><url>
     <loc>http://miguelmartin.org/home/projects/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/vision/</loc>
+    <loc>http://miguelmartin.org/vision/evaluating/</loc>
   </url><url>
     <loc>http://miguelmartin.org/teaching/</loc>
   </url><url>
     <loc>http://miguelmartin.org/awards/</loc>
   </url><url>
     <loc>http://miguelmartin.org/news/</loc>
-    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://miguelmartin.org/news/eacwe2025/</loc>
-    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
+    <loc>http://miguelmartin.org/news/nustudelft2025/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://miguelmartin.org/</loc>
+    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://miguelmartin.org/news/icuc2025/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://miguelmartin.org/news/eacwe2025/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://miguelmartin.org/news/asim2024/</loc>
@@ -92,12 +102,12 @@
   </url><url>
     <loc>http://miguelmartin.org/home/</loc>
   </url><url>
-    <loc>http://miguelmartin.org/vision/monitoring/</loc>
-  </url><url>
     <loc>http://miguelmartin.org/home/projects/sciences/</loc>
   </url><url>
     <loc>http://miguelmartin.org/tags/</loc>
   </url><url>
     <loc>http://miguelmartin.org/teaching/teaching_experience/</loc>
+  </url><url>
+    <loc>http://miguelmartin.org/vision/</loc>
   </url>
 </urlset>

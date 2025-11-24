@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Vision on Miguel Martin</title>
+    <title>Visions on Miguel Martin</title>
     <link>http://miguelmartin.org/vision/</link>
-    <description>Recent content in Research Vision on Miguel Martin</description>
+    <description>Recent content in Visions on Miguel Martin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://miguelmartin.org/vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitor urban overheating and carbon dioxide</title>
+      <link>http://miguelmartin.org/vision/monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/vision/monitoring/</guid>
+      <description>For the past five years, I have studied monitoring approaches to observe factors contributing to and mitigating urban overheating. During my tenure at a collaborative research alliance between the University of California Berkeley (UCB) and the National University of Singapore (NUS), I reviewed approaches relying on infrared thermography1 and established Singapore&amp;rsquo;s first rooftop observatory for neighborhood-scale studies2. The rooftop observatory served as the foundation for a project administered by NUS, in which I participate as a research collaborator (see the link here).</description>
+    </item>
+    <item>
+      <title>Model thermal and carbon interactions</title>
+      <link>http://miguelmartin.org/vision/modelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/vision/modelling/</guid>
+      <description>In addition to observing urban carbon sources and sinks, I suggest to develop novel models of carbon exchanges between buildings and their outdoor environments, which will extend my previous work on physics-based thermal interaction modeling conducted at the Masdar Institute of Science and Technology (MIST) and NUS 1 2 3 4. To address the computational cost and parameter complexity of physics-based models 5, I collaborated with CMU on machine learning. While faster and simpler, machine learning requires extensive training data and lack interpretability 6 7.</description>
+    </item>
+    <item>
+      <title>Evaluate decarbonization strategies</title>
+      <link>http://miguelmartin.org/vision/evaluating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/vision/evaluating/</guid>
+      <description>Models of thermal and carbon interactions between buildings and their outdoor environment offer a promising perspective for evaluating strategies that reduce building energy consumption and increase urban carbon sequestration. They can thus form the basis of support tools for scientists, industry leaders, and policymakers to create a comprehensive city decarbonization roadmap aligned with Paris Agreement targets. To develop such tools and become a world leader in climate-neutral and smart cities, I am seeking research collaborations.</description>
+    </item>
     <item>
       <title></title>
       <link>http://miguelmartin.org/vision/summary_vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/vision/summary_vision/</guid>
-      <description>To date, my research has primarily focused on building energy performance and urban overheating, utilizing physics-based models of thermal interactions between buildings and their outdoor environment. In light of findings reported in various studies12, I have come to realize that urban decarbonization must extend beyond building energy performance to effectively mitigate climate change. For this reason, I have recently developed an interest in assessing the potential of new building materials and urban designs to transform cities into carbon sinks.</description>
-    </item>
-    <item>
-      <title>Monitor urban carbon sources and sinks</title>
-      <link>http://miguelmartin.org/vision/monitoring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/vision/monitoring/</guid>
-      <description>For the past five years, I have studied monitoring approaches to observe factors contributing to and mitigating urban overheating. During my tenure at a collaborative research alliance between the University of California Berkeley (UCB) and the National University of Singapore (NUS), I reviewed approaches relying on infrared thermography1 and established Singapore&amp;rsquo;s first rooftop observatory for neighborhood-scale studies2. The rooftop observatory served as the foundation for a project administered by NUS, in which I participate as a research collaborator (see the link here).</description>
+      <description>To date, my research has primarily focused on building energy performance and urban overheating, utilizing physics-based models of thermal interactions between buildings and their outdoor environment. In light of findings reported in various studies12, I have come to realize that urban decarbonization must extend beyond building energy performance to tackle climate change. Through my participation in the PLEA 2024 conference and review of recent scientific contributions in urban sustainability 34, I have come to understand that new building materials and urban designs possess the potential to transform cities into carbon sinks.</description>
     </item>
   </channel>
 </rss>

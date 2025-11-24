@@ -1,0 +1,23 @@
+<article>
+  <header>
+    <h3>{{ .Title }}</h3>
+    <p class="lead">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+  </header>
+  <section >
+    {{ if eq .Params.format "youtube" }}
+      <iframe width="560" height="315" src="{{ .Params.externalLink }}" frameborder="0" allowfullscreen></iframe>
+    {{ end }}
+    {{ if eq .Params.format "mp4" }}
+      <video controls preload="metadata" width="560" height="315">
+        <source src="{{ .Params.externalLink }}" type="video/mp4">
+        <p>
+          Your browser does not support the video tag. 
+          Here is a <a href="{{ .Params.externalLink }}">link to the video</a> instead.
+        </p>
+      </video>
+    {{ end }}
+  </section>
+  <footer class="lead">
+    <p>Venue: {{ .Params.venue }}</p>
+  </footer>
+</article>

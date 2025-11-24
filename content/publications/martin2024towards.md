@@ -1,0 +1,9 @@
++++
+title = "Towards a full data driven coupled scheme to simulate interactions between buildings and their outdoor conditions at the city-scale"
+date = 2024-12-05
+type = "conference-proceedings"
+authors = ["Martin Miguel", "Marcel Ignatius", "Mario Berges", "Joie Lim", "Yijun Lu", "Ruohan Xu", "Clara Sanchez Garcia", "Jantien Stoter", "Nyuk Wong Hien"]
+proceedings = "ASim Conference 2024"
+abstract = "This paper suggests a method to simulate interactions between buildings and their outdoor conditions at the city-scale using a coupled scheme whose physical parameters are entirely assessed from data of the indoor and outdoor built environment. The coupled scheme consists of a reduced order building energy model and a single layer urban canopy model. In a previous study, it was proven that physical parameters of a single layer urban canopy model can be assessed using measurements of the outdoor temperature and humidity in a street canyon. For the coupled scheme to be fully data driven, the next step is to demonstrate that the reduced order building energy model can estimate the cooling consumption and exterior wall surface temperature in good agreement with measurements or simulated data after being trained using machine learning. Indeed, results show that a multi objective genetic algorithm can find values for physical parameters of the reduced order building energy model. Estimates of the cooling consumption and exterior wall surface temperature provided by the trained model achieve a CV-RMSE below 10% and a RMSE lower than 2.5 Kelvin, respectively, with respect to data generated from EnergyPlus. The last step towards a full data driven coupled scheme for city-scale simulations would be to iteratively train the reduce order building energy model with the single layer urban canopy model and show the convergence and accuracy of their respective outputs."
+externalLink = "https://publications.ibpsa.org/conference/paper/?id=asim2024_1205"
++++

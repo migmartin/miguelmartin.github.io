@@ -6,7 +6,7 @@
     <description>Recent content on Miguel Martin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://miguelmartin.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -16,11 +16,32 @@
       <description>I have more than 10 years of experience in the field of urban climate and building energy efficiency. I have essentially studied interactions between buildings and their outdoor environment using both experimental and modelling approaches. I have conducted various field experiments in the outdoor built environment using automatic weather stations, meteorological flux towers, and infrared thermal cameras. Data I have collected through fields experiments have been used to either validate physically-based models or train data-driven models.</description>
     </item>
     <item>
+      <title>Monitor urban overheating and carbon dioxide</title>
+      <link>http://miguelmartin.org/vision/monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/vision/monitoring/</guid>
+      <description>For the past five years, I have studied monitoring approaches to observe factors contributing to and mitigating urban overheating. During my tenure at a collaborative research alliance between the University of California Berkeley (UCB) and the National University of Singapore (NUS), I reviewed approaches relying on infrared thermography1 and established Singapore&amp;rsquo;s first rooftop observatory for neighborhood-scale studies2. The rooftop observatory served as the foundation for a project administered by NUS, in which I participate as a research collaborator (see the link here).</description>
+    </item>
+    <item>
       <title>Background</title>
       <link>http://miguelmartin.org/home/background/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/home/background/</guid>
       <description>I received my Bachelor and Master degree in Computer Science at the University of Geneve (Switzerland). At the end of my Master, I wrote a thesis about humain-machine interactions using brain waves.&#xA;As a first professional experience in research, I worked at the Energy Center of the Swiss Federal Institute of Technology Lausanne. I was hired in a project to study energy flows in Switzerland. The project enabled me to realize the importance of buildings in the total consumption of energy within a country.</description>
+    </item>
+    <item>
+      <title>Model thermal and carbon interactions</title>
+      <link>http://miguelmartin.org/vision/modelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/vision/modelling/</guid>
+      <description>In addition to observing urban carbon sources and sinks, I suggest to develop novel models of carbon exchanges between buildings and their outdoor environments, which will extend my previous work on physics-based thermal interaction modeling conducted at the Masdar Institute of Science and Technology (MIST) and NUS 1 2 3 4. To address the computational cost and parameter complexity of physics-based models 5, I collaborated with CMU on machine learning. While faster and simpler, machine learning requires extensive training data and lack interpretability 6 7.</description>
+    </item>
+    <item>
+      <title>Evaluate decarbonization strategies</title>
+      <link>http://miguelmartin.org/vision/evaluating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/vision/evaluating/</guid>
+      <description>Models of thermal and carbon interactions between buildings and their outdoor environment offer a promising perspective for evaluating strategies that reduce building energy consumption and increase urban carbon sequestration. They can thus form the basis of support tools for scientists, industry leaders, and policymakers to create a comprehensive city decarbonization roadmap aligned with Paris Agreement targets. To develop such tools and become a world leader in climate-neutral and smart cities, I am seeking research collaborations.</description>
     </item>
     <item>
       <title>Awards</title>
@@ -31,10 +52,24 @@
     </item>
     <item>
       <title></title>
+      <link>http://miguelmartin.org/news/nustudelft2025/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/news/nustudelft2025/</guid>
+      <description>On July 14 2025, I organized a research exchange between NUS and TU Delft members. A discussion forum is available here to ask questions to participants of the event.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://miguelmartin.org/news/icuc2025/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/news/icuc2025/</guid>
+      <description>On July 9 2025, I presented my research on carbon dispersion in the outdoor built environment using urban building energy modelling and computational fluid dynamics. The poster I presented is available here.</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://miguelmartin.org/news/eacwe2025/</link>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/news/eacwe2025/</guid>
-      <description>On June 18 2025, I presentt the MORICHI dataset at the EACWE 2025 in Norway. The dataset is publicly availble here.</description>
+      <description>On June 18 2025, I presented the MORICHI dataset at the EACWE 2025 in Norway. The dataset is publicly availble here.</description>
     </item>
     <item>
       <title></title>
@@ -181,7 +216,7 @@
       <link>http://miguelmartin.org/vision/summary_vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/vision/summary_vision/</guid>
-      <description>To date, my research has primarily focused on building energy performance and urban overheating, utilizing physics-based models of thermal interactions between buildings and their outdoor environment. In light of findings reported in various studies12, I have come to realize that urban decarbonization must extend beyond building energy performance to effectively mitigate climate change. For this reason, I have recently developed an interest in assessing the potential of new building materials and urban designs to transform cities into carbon sinks.</description>
+      <description>To date, my research has primarily focused on building energy performance and urban overheating, utilizing physics-based models of thermal interactions between buildings and their outdoor environment. In light of findings reported in various studies12, I have come to realize that urban decarbonization must extend beyond building energy performance to tackle climate change. Through my participation in the PLEA 2024 conference and review of recent scientific contributions in urban sustainability 34, I have come to understand that new building materials and urban designs possess the potential to transform cities into carbon sinks.</description>
     </item>
     <item>
       <title>BEAM</title>
@@ -189,13 +224,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/home/projects/beam/</guid>
       <description>&lt;p&gt;The Baselining, Evaluating, Action, and Monitoring (BEAM) project is part of the CoolNUS initiative by the NUS president, University Campus Infrastructure (UCI), and College of Design and Engineering (CDE) to develop a test bed for urban microclimate sensing and modelling.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Monitor urban carbon sources and sinks</title>
-      <link>http://miguelmartin.org/vision/monitoring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/vision/monitoring/</guid>
-      <description>For the past five years, I have studied monitoring approaches to observe factors contributing to and mitigating urban overheating. During my tenure at a collaborative research alliance between the University of California Berkeley (UCB) and the National University of Singapore (NUS), I reviewed approaches relying on infrared thermography1 and established Singapore&amp;rsquo;s first rooftop observatory for neighborhood-scale studies2. The rooftop observatory served as the foundation for a project administered by NUS, in which I participate as a research collaborator (see the link here).</description>
     </item>
     <item>
       <title>SCIENCES</title>

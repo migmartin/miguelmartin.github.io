@@ -36,7 +36,7 @@ theme = "hugo-initio"
 
 [[menu.main]]
     identifier = "publications"
-    name = "Publications"
+    name = "Publications and Talks"
     url = "/publications/"
     weight = 2
 
@@ -58,11 +58,7 @@ theme = "hugo-initio"
   url = "/cv/cv_miguel_martin.pdf"
   weight = 6
 
-[[menu.main]]
-    identifier = "events"
-    name = "Events"
-    url = "/news/"
-    weight = 7
+
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
@@ -92,7 +88,7 @@ theme = "hugo-initio"
 [[params.social]]
 	title = "scopus"
 	url = "https://www.scopus.com/authid/detail.uri?authorId=56037196400"
-    icon = "fab fa-google"
+    icon = "fa fa-book"
     footer = true
     sharethis = false
     network = "scopus"
