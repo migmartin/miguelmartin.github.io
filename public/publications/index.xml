@@ -6,13 +6,34 @@
     <description>Recent content in Publications on Miguel Martin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://miguelmartin.org/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forging cool and carbon-sink cities: a multiscale synergy of sensing, physics, and AI</title>
+      <link>http://miguelmartin.org/publications/martin2025forging/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/publications/martin2025forging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towards a full data driven coupled scheme to simulate interactions between buildings and their outdoor conditions at the city-scale</title>
+      <link>http://miguelmartin.org/publications/martin2024towards/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/publications/martin2024towards/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Coupling between detailed building energy models and a data driven urban canopy model</title>
       <link>http://miguelmartin.org/publications/martin2024coupling/</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/publications/martin2024coupling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine learning for urban building energy modelling and climate risk assessment</title>
+      <link>http://miguelmartin.org/publications/martin2024machine/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/publications/martin2024machine/</guid>
       <description></description>
     </item>
     <item>

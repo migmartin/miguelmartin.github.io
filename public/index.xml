@@ -6,14 +6,14 @@
     <description>Recent content on Miguel Martin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://miguelmartin.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://miguelmartin.org/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/home/about/</guid>
-      <description>I have more than 10 years of experience in the field of urban climate and building energy efficiency. I have essentially studied interactions between buildings and their outdoor environment using both experimental and modelling approaches. I have conducted various field experiments in the outdoor built environment using automatic weather stations, meteorological flux towers, and infrared thermal cameras. Data I have collected through fields experiments have been used to either validate physically-based models or train data-driven models.</description>
+      <description>I have more than 12 years of research experience in building energy efficiency and urban overheating. To investigate their connections, I have integrated sensing, physics, and artificial intelligence across multiple scales, different climates, and various urban morphologies. The sensing methods are automatic weather stations, meteorological flux towers, and infrared thermal cameras. The data collected via these methods serves to either validate physics-based models or train data-driven models. Using the models, I aim to evaluate various strategies to counteract urban overheating and reduce the carbon footprint in cities.</description>
     </item>
     <item>
       <title>Monitor urban overheating and carbon dioxide</title>
@@ -27,7 +27,7 @@
       <link>http://miguelmartin.org/home/background/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/home/background/</guid>
-      <description>I received my Bachelor and Master degree in Computer Science at the University of Geneve (Switzerland). At the end of my Master, I wrote a thesis about humain-machine interactions using brain waves.&#xA;As a first professional experience in research, I worked at the Energy Center of the Swiss Federal Institute of Technology Lausanne. I was hired in a project to study energy flows in Switzerland. The project enabled me to realize the importance of buildings in the total consumption of energy within a country.</description>
+      <description>I received my Bachelor and Master degree in Computer Science at the University of Geneve (Switzerland). At the end of my Master, I wrote a thesis about humain-machine interactions using brain waves.&#xA;As a first professional experience in research, I worked at the Energy Center of the Swiss Federal Institute of Technology Lausanne. I was hired in a project to study energy flows in Switzerland. The project highlighted the significant role of buildings in the country&amp;rsquo;s total energy consumption.</description>
     </item>
     <item>
       <title>Model thermal and carbon interactions</title>
@@ -51,53 +51,18 @@
       <description> Marie-Curie Postdoctoral Global Fellowship, European Commission, 2022 Best paper award, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 Best oral presentation, University of Tokyo Komaba Campus, Sustainable Built Environment Conference, Tokyo (Japan), 2019 President’s Graduate Fellowship, National University of Singapore, Singapore, 2019 NUS Research Scholarship, National University of Singapore, Singapore, 2016 </description>
     </item>
     <item>
-      <title></title>
-      <link>http://miguelmartin.org/news/nustudelft2025/</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/news/nustudelft2025/</guid>
-      <description>On July 14 2025, I organized a research exchange between NUS and TU Delft members. A discussion forum is available here to ask questions to participants of the event.</description>
+      <title>Forging cool and carbon-sink cities: a multiscale synergy of sensing, physics, and AI</title>
+      <link>http://miguelmartin.org/publications/martin2025forging/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/publications/martin2025forging/</guid>
+      <description></description>
     </item>
     <item>
-      <title></title>
-      <link>http://miguelmartin.org/news/icuc2025/</link>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/news/icuc2025/</guid>
-      <description>On July 9 2025, I presented my research on carbon dispersion in the outdoor built environment using urban building energy modelling and computational fluid dynamics. The poster I presented is available here.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://miguelmartin.org/news/eacwe2025/</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/news/eacwe2025/</guid>
-      <description>On June 18 2025, I presented the MORICHI dataset at the EACWE 2025 in Norway. The dataset is publicly availble here.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://miguelmartin.org/news/asim2024/</link>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/news/asim2024/</guid>
-      <description>On December 9 2024, I presented my research on the use of machine learning to simulate interactions between buildings and their outdoor conditions during the GNI Symposium &amp;amp; Expo on Artificial Intelligence for the Built World in Munich. The content of the presentation is available here.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://miguelmartin.org/news/smartlivinglab2024/</link>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/news/smartlivinglab2024/</guid>
-      <description>On September 13 2024, I presented my research sponsored by the Marie Curie Postdoctoral fellowship at the Smart Living Lab in Fribourg (Switzerland). The content of the presentation is available here.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://miguelmartin.org/news/gni2024/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/news/gni2024/</guid>
-      <description>On September 11 2024, I presented my research on the use of machine learning to simulate interactions between buildings and their outdoor conditions during the GNI Symposium &amp;amp; Expo on Artificial Intelligence for the Built World in Munich. The content of the presentation is available here.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://miguelmartin.org/news/plea2024/</link>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/news/plea2024/</guid>
-      <description>During the PLEA 2024 international conference in Wroclaw (Poland), I presented preliminary results obtained from detailed building energy models coupled with a data driven urban canopy model. It includes the validation of the coupled scheme and a baseline-scenarios analysis. My presentation was on June 26 2024 between 12:40pm and 12:50pm CET. The content of the presentation is available here.</description>
+      <title>Towards a full data driven coupled scheme to simulate interactions between buildings and their outdoor conditions at the city-scale</title>
+      <link>http://miguelmartin.org/publications/martin2024towards/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/publications/martin2024towards/</guid>
+      <description></description>
     </item>
     <item>
       <title>Coupling between detailed building energy models and a data driven urban canopy model</title>
@@ -107,11 +72,11 @@
       <description></description>
     </item>
     <item>
-      <title></title>
-      <link>http://miguelmartin.org/news/ccai/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/news/ccai/</guid>
-      <description>On June 17 2024 between 10:30am and 12pm EST, I gave a talk on applications of machine learning to urban building energy modelling and climate risk assessment during the Climate Change AI seminar series. This session comprised a 30-minute presentation on my past experience and current research and a 45-minute discussion on the following topics:&#xA;Computer science and physics to study urban sustainability Machine learning to predict outdoor conditions Machine learning to calibrate an urban building energy model Machine learning to assess climate risk The content of the presentation can be found here.</description>
+      <title>Machine learning for urban building energy modelling and climate risk assessment</title>
+      <link>http://miguelmartin.org/publications/martin2024machine/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://miguelmartin.org/publications/martin2024machine/</guid>
+      <description></description>
     </item>
     <item>
       <title>Impact of interactions between buildings and their outdoor conditions on the calibration of an urban building energy model</title>
@@ -119,13 +84,6 @@
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/publications/martin2024impact/</guid>
       <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://miguelmartin.org/news/esim2024/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://miguelmartin.org/news/esim2024/</guid>
-      <description>On June 6 2024, I presented my research on the impact of interactions between buildings and their outdoor conditions on the calibration of an urban building energy model during the eSim 2024 in Edmonton (Canada). Please find the content of my presentation here.</description>
     </item>
     <item>
       <title>InfraRed Investigation in Singapore (IRIS) Observatory: Urban heat island contributors and mitigators analysis using neighborhood-scale thermal imaging</title>
@@ -209,7 +167,7 @@
       <link>http://miguelmartin.org/teaching/teaching_philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/teaching/teaching_philosophy/</guid>
-      <description>Teaching has always been a rewarding experience, allowing me to share my knowledge with students while also learning from them in return. For this reason, I adhere to the active learning pedagogical approach to ensure that students receive the most effective knowledge transfer from me. My dedication to active learning originates from a reflection on my education and pedagogical training. I primarily followed an academic curriculum in Switzerland and Singapore, where a passive learning pedagogical approach prevailed during my studies.</description>
+      <description>My primary goal as an educator is to provide a holistic, inclusive, and student-centered education that fosters critical thinking and empowers students to address complex and real-world challenges. In pursuit of this goal, I leverage my unique background in building physics, urban climatology, and computer science to design curricula that prepare students for the evolving demands of architecture and engineering professions. My commitment to fostering critical thinking and creativity was forged during my first substantial teaching experience at the National University of Singapore (NUS).</description>
     </item>
     <item>
       <title></title>
@@ -237,7 +195,7 @@
       <link>http://miguelmartin.org/teaching/teaching_experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://miguelmartin.org/teaching/teaching_experience/</guid>
-      <description>Teaching Assistant, Modeling wind and dispersion in the urban environments (GEO5051), Faculty of Architecture and the Built Environment, Delft University of Technology, Spring 2025 (Instructor: Clara Garcia-Sanchez) Co-Instructor, Autonomous Sustainable Buildings: From Theory to Practice (12-770), Department of Civil and Environmental Engineering, Carnegie Mellon University, Spring 2024&#xA;(Main instructor: Mario Berges) Lecture 5: Energy Use in Buildings (Slides) Lecture 6: Thermodynamics Part 1 (Slides) Lecture 7: Thermodynamics Part 2 (Slides) Lecture 8: Thermal comfort (Slides) Lecture 9: Building Energy Simulations Part 1 (Slides, ZIP, Videos) Lecture 10: Building Energy Simulations Part 2 (Slides, ZIP, Videos) Teaching assistant, Digital construction (PF1103), Department of Building Science, School of Design and Environment, National University of Singapore, Spring 2019</description>
+      <description>Teaching Assistant, Geographical Information Systems (GIS) and Cartography (GEO1002), Faculty of Architecture and the Built Environment, Delft University of Technology, Fall 2025 (Instructor: Giorgio Agugiaro) Teaching Assistant, Modeling wind and dispersion in the urban environments (GEO5051), Faculty of Architecture and the Built Environment, Delft University of Technology, Spring 2025 (Instructor: Clara Garcia-Sanchez) Co-Instructor, Autonomous Sustainable Buildings: From Theory to Practice (12-770), Department of Civil and Environmental Engineering, Carnegie Mellon University, Spring 2024</description>
     </item>
   </channel>
 </rss>
